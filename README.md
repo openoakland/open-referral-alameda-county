@@ -14,9 +14,9 @@ This is a short-term work plan to get the project some traction and build a proo
 
 ### People
 
-- Sameer [@siruguri on Twitter](https://twitter.com/siruguri) has taken the lead on organizing this effort in Alameda County
-- Sunny [@SunnyRJuneja on Twitter](https://twitter.com/SunnyRJuneja) is interested in doing a lot of the technical development (tentative choice seems to use mostly Ruby)
-- Dave [@allafarce on Twitter](https://twitter.com/allafarce) is helping out where useful (like writing this README and maybe helping with scrapers)
+- Sameer ([@siruguri on Twitter](https://twitter.com/siruguri)) has taken the lead on organizing this effort in Alameda County
+- Sunny ([@SunnyRJuneja on Twitter](https://twitter.com/SunnyRJuneja)) is interested in doing a lot of the technical development (tentative choice seems to use mostly Ruby)
+- Dave ([@allafarce on Twitter](https://twitter.com/allafarce)) is helping out where useful (like writing this README and maybe helping with scrapers)
 
 ### Additional Background & Links
 
@@ -26,7 +26,7 @@ Sameer has led the effort so far, and has connected with folks at Highland Hospi
 
 - The Ohana API ( https://github.com/codeforamerica/ohana-api ) is an open source API for social service provider data; it was a 2013 Code for America fellowship project and was awarded a Knight grant in 2014 to continue development and expand the project
 - The Human Services Data Specification (HSDS, https://github.com/codeforamerica/hsd_specification/blob/master/HSD_specification.mdown#content ) is a draft data standard for this kind of data that the Ohana API is built upon
-- "Open Referral" ( https://www.changemakers.com/project/openreferral ) is a project headed by Greg Bloom [@greggish on Twitter](https://twitter.com/greggish) to push for a data standard for service provider data
+- "Open Referral" ( https://www.changemakers.com/project/openreferral ) is a project headed by Greg Bloom ([@greggish on Twitter](https://twitter.com/greggish)) to push for a data standard for service provider data
 - Eden I&R ( http://www.edenir.org/ ) provides a directory for Alameda County's social service providers
 
 #### Technical links
