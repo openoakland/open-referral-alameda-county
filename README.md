@@ -34,6 +34,7 @@ Sameer has led the effort so far, and has connected with folks at Highland Hospi
 - activewarehouse-etl ( https://github.com/activewarehouse/activewarehouse-etl ) is a an ETL framework written in Ruby, and about the most friendly ETL DSL I've seen; it's a bit poorly-documented, but this presentation is helpful: https://speakerdeck.com/thbar/transforming-data-with-ruby-and-activewarehouse-etl
 - wombat ( https://github.com/felipecsl/wombat ) is a Ruby web scraping DSL that looks good
 - upton ( https://github.com/propublica/upton ) is another Ruby scraping DSL, by ProPublica
+- A bunch of other Ruby scraping frameworks: https://www.ruby-toolbox.com/categories/Web_Content_Scrapers
 
 ### Getting Involved
 
