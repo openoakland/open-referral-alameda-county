@@ -6,7 +6,10 @@ This repo is a staging ground for OpenOakland's work around the "Open Referral"/
 
 This is a short-term work plan to get the project some traction and build a proof-of-concept with the data and resources we already have:
 
-- [ ] **Evaluate data source:** Look at the data in the Alameda County 211 site (example: http://www.alamedaco.info/resource/agency.cfm?pid=PG002363_2_1_0 ) and see if we have enough to populate an Ohana API ( https://github.com/codeforamerica/ohana-api ) instance with the required fields ( per https://github.com/codeforamerica/hsd_specification/blob/master/HSD_specification.mdown#content )
+- [✓] **Evaluate data source:** Look at the data in the Alameda County 211 site (example: http://www.alamedaco.info/resource/agency.cfm?pid=PG002363_2_1_0 ) and see if we have enough to populate an Ohana API ( https://github.com/codeforamerica/ohana-api ) instance with the required fields ( per https://github.com/codeforamerica/hsd_specification/blob/master/HSD_specification.mdown#content )
+
+  [Completed by Dave](https://github.com/openoakland/open-referral-alameda-county/blob/master/HSD-required-fields-assessment-of-AC-data-source.csv)
+
 - [ ] **Data scraper:** If that 211 site **does** have sufficient data to deploy Ohana, write a proof-of-concept scraper to get data for the required fields for an Ohana instance
 - [ ] **ETL for scraped data into Ohana spec:** Write up a small ETL app to transform the data into the structure necessary to load into the Ohana API
 - [ ] **Deploy Ohana API alpha:** Stand up an instance of Ohana API with the scraped data
