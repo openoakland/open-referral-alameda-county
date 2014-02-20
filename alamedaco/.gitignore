@@ -1,0 +1,4 @@
+Gemfile.lock
+scraped_data/*
+web_cache/*
+*.sw*
