@@ -1,0 +1,50 @@
+o: ActiveSupport::Cache::Entry:@valueU:Faraday::Response{:statusi»:	bodyI"Á<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+
+	<title>Courts</title>
+	
+<link rel="stylesheet" type="text/css" href="/style/style1.css">
+</head>
+
+<body>
+
+
+
+
+
+<table width="100%" border=0 height="100%">
+<tr>
+<td valign=top>
+<font size="+1"><strong>Courts</strong></font><br>
+Federal and state judicial bodies whose function is to resolve disputes and dispense justice according to the principles of law and equity. Court processes involve interpreting the laws; presiding over encounters between the prosecution and defense in criminal matters and plaintiffs and defendants in civil matters; examining evidence and the credibility of witnesses; instructing juries; and determining liability and damages in civil matters and guilt or acquittal and sentencing in criminal matters. Courts also have the power to grant restraining orders, injunctions or other restrictions in appropriate circumstances.
+</td>
+</tr>
+</table>
+
+
+
+</body>
+</html>
+:ET:response_headersIC:Faraday::Utils::Headers{I"connection;
+TI"
+close;
+TI"	date;
+TI""Tue, 25 Feb 2014 21:24:31 GMT;
+TI"server;
+TI"Microsoft-IIS/6.0;
+TI"x-powered-by;
+TI"ASP.NET;
+TI"set-cookie;
+TI"ÍCFID=6491494;expires=Thu, 18-Feb-2044 21:24:31 GMT;path=/, CFTOKEN=83704365;expires=Thu, 18-Feb-2044 21:24:31 GMT;path=/, COUNTYID=2;path=/, SIZEID=1;path=/, ACTIVESTILL=1;path=/, BIGipServerNOC_HTTP_POOL=1382328512.20480.0000; path=/;
+TI"content-type;
+TI"text/html; charset=UTF-8;
+T:@names{I"connection;
+T@
+I"	date;
+T@I"server;
+T@I"x-powered-by;
+T@I"set-cookie;
+T@I"content-type;
+T@:@created_atf1393363496.513487:@expires_inf8.64e4

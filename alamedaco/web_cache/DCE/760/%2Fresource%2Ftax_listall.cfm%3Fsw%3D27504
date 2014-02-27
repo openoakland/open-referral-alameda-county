@@ -1,0 +1,579 @@
+o: ActiveSupport::Cache::Entry:@valueU:Faraday::Response{:statusi»:	bodyI"ÈL
+
+<html>
+<head>
+	<title>Resource Search Results</title>
+	
+</head>
+<body leftmargin="0" topmargin="0">
+	
+
+
+<style>
+<!--
+p
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 12pt;
+}
+
+h1
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 14pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 16pt;
+}
+h2
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 8pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+a
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 8pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+a:active
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 8pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+a:visited
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+
+a.headerLink:link
+{
+    COLOR: #FFFFFF;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+
+a.headerLink:active
+{
+    COLOR: #FFFFFF;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+
+a.headerLink:visited
+{
+    COLOR: #FFFFFF;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+
+span
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+span.bold
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 11pt;
+}
+span.headtitle
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 11pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 13pt;
+}
+span.header
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 14pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 16pt;
+}
+strong
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 11pt;
+}
+label
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+td
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+textarea
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+select
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+-->	
+}
+-->
+</style>
+
+<script language="JavaScript">
+
+</script>
+
+
+<table width="755" height="128" border="0" cellspacing="0" cellpadding="0">
+	
+	<tr>
+    	<td width="755" height="102" valign="top" colspan="2"><img src="/resource/images/rd_toppanel_1.gif" usemap="#Map1" width="250" height="102" hspace="0" vspace="0" border="0"><img src="/resource/images/rd_toppanel_2.gif" width="250" height="102" vspace="0" hspace="0" border="0"><img src="/resource/images/rd_toppanel_3.gif" width="255" height="102" hspace="0" vspace="0" border="0"></td>
+	</tr>
+	<tr> 
+	    <td width="755" height="2" valign="top" colspan="2"><img src="/resource/images/transparent.gif" width="755" height="2" vspace="0" hspace="0" border="0"></td>
+	</tr>
+	<tr>
+	    <td width="755" height="22" bgcolor="005499" align="center" colspan="2"> 
+    	<p>
+	    <a href="../resource/rdabout.cfm" class="headerLink">About The Directory</a><img src="/resource/images/transparent.gif" width="40" height="2" hspace="0" vspace="0" border="0">
+	    <a href="../resource/rduse.cfm" class="headerLink">How To Use The Directory</a><img src="/resource/images/transparent.gif" width="40" height="2" hspace="0" vspace="0" border="0">
+	    <a href="../resource/index.cfm" class="headerLink">Resource Finder</a><img src="/resource/images/transparent.gif" vspace="0" hspace="0" width="40" height="2" border="0">
+	    <a href="../resource/rdsponsor.cfm" class="headerLink">Sponsors</a><img src="/resource/images/transparent.gif" vspace="0" hspace="0" width="40" height="2" border="0">
+		<a href="../resource/rdcontact.cfm" class="headerLink">Feedback</a>
+	    </p></td>
+	</tr>
+  
+	<tr>
+		<td width="755" height="2" valign="top" colspan="2"><img src="/resource/images/transparent.gif" width="755" hspace="0" vspace="0" height="2" border="0"></td>
+	</tr>
+<map name="Map1"> 
+  <area shape="rect" coords="9,8,175,94" href="http://www.edenir.org" target="new">
+</map>
+
+
+
+
+	<tr><td width="160" valign="top">
+	
+	
+	<table width="160" height="282" border="0" cellspacing="0" cellpadding="0" rules="none">
+	  	<tr>
+		    <td width="160" height="6" colspan="3" valign="top" background="/resource/images/rdnavi_blueback.gif" align="left"><img src="/resource/images/rdnavi_blueback.gif" width="9" height="6" hspace="0" vspace="0" border="0"><img src="/resource/images/rdnavi_back1.gif" width="129" height="6" vspace="0" hspace="0" border="0"><img src="/resource/images/rdnavi_topcurve.gif" width="22" height="6" vspace="0" hspace="0" border="0"></td>
+	 	</tr>
+		
+		<tr>
+		    <td width="9" height="260" valign="top" background="/resource/images/rdnavi_blueback.gif" align="left"><img src="/resource/images/rdnavi_blueback.gif" width="9" height="260" hspace="0" vspace="0" border="0"></td>
+			<td width="129" height="260" valign="top" background="/resource/images/rdnavi_back1.gif" align="left"> 
+			<p><img src="/resource/images/transparent.gif" width="129" height="10" vspace="0" hspace="0" border="0">
+			<b><font size="1" face="Geneva, Arial, Helvetica, san-serif"><a href="http://www.irissoft.com/cccc/" target="_blank">Contra Costa<br>County Services</a></font></b></p>
+			<p><b><font face="Geneva, Arial, Helvetica, san-serif" size="1" color="#336699"><a href="http://www.cairs.org" target="_blank">CAIRS</a></font></b></p>
+			<p><b><font face="Geneva, Arial, Helvetica, san-serif" size="1" color="#336699"><a href="http://www.airs.org" target="_blank">AIRS</a></font></b></p>
+			<p><b><font face="Geneva, Arial, Helvetica, san-serif" size="1" color="#336699"><a href="http://www.nursinghomeguide.org" target="_blank">California Nursing Home Guide</a></font></b></p>
+			<p><b><font face="Geneva, Arial, Helvetica, san-serif" size="1" color="#336699"><a href="/resource/veteranServices.cfm">Veteran's Resources</a></font></b></p>
+			
+			
+		
+			<table width="125" border="1" cellspacing="0" cellpadding="4" bordercolor="336699">
+		        <tr> 
+					<td valign="top"> 
+			      	<p><b><font color="#336699">In order to use the Hotlist and Notes components, you must login to your account.</font></b></p>
+			       	
+					<p align="right">
+					
+						<a href="../myaccount/login.cfm?dest=http%3A%2F%2Fwww%2Ealamedaco%2Einfo%3A80%2Fresource%2Findex%2Ecfm%3F"><img src="/resource/images/loginbutton.gif" alt="Login Here" width="61" height="20" name="button7" border=0></a><br>
+					
+					<img src="/resource/images/transparent.gif" width="100" height="2" border="0" hspace="0" vspace="0"><br><a href="../resource/myresource.cfm"><img src="/resource/images/hotlist_button.gif" vspace="0" width="94" height="19" border=0 hspace="0"></a></p>
+					
+					
+					<p>&nbsp;</p>
+					</td>
+			 	</tr>
+			</table>
+		
+			</td>
+		
+			<td width="22" height="260" background="/resource/images/rdnavi_rsideblue.gif"><img src="/resource/images/transparent.gif" width="22" height="260" border="0" hspace="0" vspace="0"></td>
+		
+		</tr>
+		
+		<tr>
+	  	<td width="138" colspan="2" height="16" valign="top" background="/resource/images/rdnavi_blueback.gif"><img src="/resource/images/transparent.gif" width="9" height="16" border="0" hspace="0" vspace="0"><img src="/resource/images/transparent.gif" width="129" height="16" border="0" hspace="0" vspace="0"></td>
+		<td background="/resource/images/rdnavi_rsideblue.gif" valign="top"><img src="/resource/images/rdnavi_bottomcurve.gif" width="22" height="16" hspace="0" vspace="0" border="0"></td>
+		</tr>
+		
+	</table>
+
+	</td>
+
+	<td valign="top">
+
+	<table width=580 border="0" cellspacing="0" cellpadding="18">
+	<tr><td>
+
+
+
+<table width=540>
+
+<tr><td><p class="headtitle">Housing Authorities</p></td></tr>
+<tr><td><p class="">City, county, or state housing offices that provide information about eligibility for and vacancies in the subsidized housing properties that are under their jurisdiction. Housing authorities accept Section 8 applications, provide Section 8 vouchers, make approved Section 8 rental payments and administer public housing communities while in certain rural areas, the housing finance agency may play this role.</p><br></td></tr>
+<form action="tax_listall.cfm?sw=27504" method="POST">
+<tr><td>Narrow Results by City: 
+		<input type="hidden" name="isCity" value="1">
+		<select name="City">
+			<option value="a.city">-- All Cities -- 
+					
+			<option value="'Alameda'">Alameda 			
+			<option value="'Anaheim'">Anaheim 			
+			<option value="'Auburn'">Auburn 			
+			<option value="'Bakersfield'">Bakersfield 			
+			<option value="'Baldwin Park'">Baldwin Park 			
+			<option value="'Belmont'">Belmont 			
+			<option value="'Benecia'">Benecia 			
+			<option value="'Berkeley'">Berkeley 			
+			<option value="'Brawley'">Brawley 			
+			<option value="'Burbank'">Burbank 			
+			<option value="'Calexico'">Calexico 			
+			<option value="'Carlsbad'">Carlsbad 			
+			<option value="'Chico'">Chico 			
+			<option value="'Compton'">Compton 			
+			<option value="'Cresent City'">Cresent City 			
+			<option value="'Culver City'">Culver City 			
+			<option value="'Encinitas'">Encinitas 			
+			<option value="'Eureka'">Eureka 			
+			<option value="'Fairfield'">Fairfield 			
+			<option value="'Fresno'">Fresno 			
+			<option value="'Garden Grove'">Garden Grove 			
+			<option value="'Glendale'">Glendale 			
+			<option value="'Hanford'">Hanford 			
+			<option value="'Hawaiian Gardens'">Hawaiian Gardens 			
+			<option value="'Hawthorne'">Hawthorne 			
+			<option value="'Hayward'">Hayward 			
+			<option value="'Inglewood'">Inglewood 			
+			<option value="'Livermore'">Livermore 			
+			<option value="'Lompoc'">Lompoc 			
+			<option value="'Long Beach'">Long Beach 			
+			<option value="'Los Angeles'">Los Angeles 			
+			<option value="'Lower Lake'">Lower Lake 			
+			<option value="'Madera'">Madera 			
+			<option value="'Mariposa'">Mariposa 			
+			<option value="'Martinez'">Martinez 			
+			<option value="'Marysville'">Marysville 			
+			<option value="'Merced'">Merced 			
+			<option value="'Modesto'">Modesto 			
+			<option value="'Monterey Park'">Monterey Park 			
+			<option value="'Napa'">Napa 			
+			<option value="'National City'">National City 			
+			<option value="'Needles'">Needles 			
+			<option value="'Newbury Park'">Newbury Park 			
+			<option value="'Norwalk'">Norwalk 			
+			<option value="'Oakland'">Oakland 			
+			<option value="'Oceanside'">Oceanside 			
+			<option value="'Oxnard'">Oxnard 			
+			<option value="'Pasadena'">Pasadena 			
+			<option value="'Paso Robles'">Paso Robles 			
+			<option value="'Pico Rivera'">Pico Rivera 			
+			<option value="'Pittsburg'">Pittsburg 			
+			<option value="'Placerville'">Placerville 			
+			<option value="'Pomona'">Pomona 			
+			<option value="'Port Hueneme'">Port Hueneme 			
+			<option value="'Quincy'">Quincy 			
+			<option value="'Red Bluff'">Red Bluff 			
+			<option value="'Redding'">Redding 			
+			<option value="'Redondo Beach'">Redondo Beach 			
+			<option value="'Richmond'">Richmond 			
+			<option value="'Riverbank'">Riverbank 			
+			<option value="'Riverside'">Riverside 			
+			<option value="'Roseville'">Roseville 			
+			<option value="'Sacramento'">Sacramento 			
+			<option value="'Salinas'">Salinas 			
+			<option value="'San Bernadino'">San Bernadino 			
+			<option value="'San Diego'">San Diego 			
+			<option value="'San Francisco'">San Francisco 			
+			<option value="'San Jose'">San Jose 			
+			<option value="'San Luis Obispo'">San Luis Obispo 			
+			<option value="'San Rafael'">San Rafael 			
+			<option value="'Santa Ana'">Santa Ana 			
+			<option value="'Santa Barbara'">Santa Barbara 			
+			<option value="'Santa Cruz'">Santa Cruz 			
+			<option value="'Santa Fe Springs'">Santa Fe Springs 			
+			<option value="'Santa Monica'">Santa Monica 			
+			<option value="'Santa Paula'">Santa Paula 			
+			<option value="'Santa Rosa'">Santa Rosa 			
+			<option value="'Solodad'">Solodad 			
+			<option value="'South Gate'">South Gate 			
+			<option value="'South San Francisco'">South San Francisco 			
+			<option value="'Stockton'">Stockton 			
+			<option value="'Suisun City'">Suisun City 			
+			<option value="'Torrance'">Torrance 			
+			<option value="'Ukiah'">Ukiah 			
+			<option value="'Upland'">Upland 			
+			<option value="'Vacaville'">Vacaville 			
+			<option value="'Vallejo'">Vallejo 			
+			<option value="'Ventura'">Ventura 			
+			<option value="'Visalia'">Visalia 			
+			<option value="'West Hollywood'">West Hollywood 			
+			<option value="'Woodland'">Woodland 			
+			<option value="'Yuba City'">Yuba City 
+		</select> 
+		<input type="submit" value=" Go ">
+		</td></tr>
+</form>
+<tr><td><br></td></tr>
+
+<form action="tax_listall.cfm?sw=27504" method="POST">
+<tr><td>Narrow Results by Language: <br>
+		<input type="hidden" name="isLanguage" value="1">
+    <input type="image" name="None" src="images/all.gif" alt="All Languages" align="bottom">
+
+    <input type="image" name="Cantonese" src="images/cantonese.gif" alt="Chinese (Cantonese)" align="bottom"> <input type="image" name="Vietnamese" src="images/Vietnamese.gif" alt="Vietnamese" align="bottom"> <input type="image" name="Spanish" src="images/Spanish.gif" alt="Spanish" align="bottom">               
+
+		</td></tr>
+    
+</form>
+
+<tr><td><br></td></tr>
+
+</table>
+
+
+
+<strong>Results 1 - 15 of 98</strong>
+
+
+<br><br>
+
+
+
+<table width="540">
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG001936_2_1_0">Alameda County Housing Authority  |  Hayward Office  |  </a><br>
+	Low-cost housing for families, seniors and/or disabled persons<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG002457_2_1_0">Berkeley Housing Authority (BHA)  |  Affordable Public Housing Program  |  </a><br>
+	Administers tenant-based and project-based housing assistance programs in the city of Berkeley, to low-income individuals and families, seniors and persons with disabilities<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG002452_2_1_0">Housing Authority of the City of Alameda  |  Managed Housing Program  |  </a><br>
+	Administers housing programs at properties owned and managed by the housing authority<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG000737_2_1_0">Livermore Housing Authority</a><br>
+	Provides subsidized rental housing for low-income families, seniors and disabled persons<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG003167_2_1_0">Oakland Housing Authority - OHA  |  Conventional Public Housing Program  |  </a><br>
+	Owns and manages public housing rental units; provides housing to low and moderate income individuals and families<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG003166_2_1_0">Oakland Housing Authority - OHA  |  Section 8 Program  |  </a><br>
+	Makes housing assistance payments to private landlords, enabling eligible persons to rent privately owned housing<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG001767_2_1_0">Out-of-County Housing Authorities  |  Anaheim Housing Authority  |  </a><br>
+	Provides low-cost housing and Section 8 subsidized rental housing for eligible families, senior citizens (age 62 or over) and disabled persons.<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG001778_2_1_0">Out-of-County Housing Authorities  |  Baldwin Park Housing Authority  |  </a><br>
+	Provides low-cost housing and Section 8 subsidized rental housing for eligible families, senior citizens (age 62 or over) and disabled persons.<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG001119_2_1_0">Out-of-County Housing Authorities  |  Benicia Housing Authority  |  </a><br>
+	Provides low-cost housing and Section 8 subsidized rental housing for eligible families, senior citizens (age 62 or over), and disabled persons<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG001122_2_1_0">Out-of-County Housing Authorities  |  Burbank Housing Authority  |  </a><br>
+	Provides low-cost housing and Section 8 subsidized rental housing for eligible families, senior citizens (age 62 or over), and disabled persons.<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG001125_2_1_0">Out-of-County Housing Authorities  |  Butte County Housing Authority  |  (Housing Authority of the County of Butte)</a><br>
+	Provides low-cost housing and Section 8 subsidized rental housing for eligible families, senior citizens (age 62 or over), and disabled persons<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG001123_2_1_0">Out-of-County Housing Authorities  |  Calexico City Housing Authority  |  </a><br>
+	Provides low-cost housing and Section 8 subsidized rental housing for eligible families, senior citizens (age 62 or over), and disabled persons.<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG002525_2_1_0">Out-of-County Housing Authorities  |  Carlsbad Housing Agency  |  </a><br>
+	Provides low-cost housing and Section 8 subsidized rental housing for eligible families, senior citizens (age 62 or over), and disabled persons.<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG002016_2_1_0">Out-of-County Housing Authorities  |  City of San Diego Housing Authority (San Diego Housing Commission)  |  </a><br>
+	Provides low-cost housing and Section 8 subsidized rental housing for eligible families, senior citizens, age 62 or over, and disabled persons.<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG001126_2_1_0">Out-of-County Housing Authorities  |  Compton Housing Authority  |  </a><br>
+	Provides low-cost housing and Section 8 subsidized rental housing for eligible families, senior citizens (age 62 or over), and disabled persons.<br>
+	
+	<br></td>
+</tr>
+
+</table>
+
+
+
+
+
+<br>
+<hr align="center" width="300">
+<div align="center">
+
+<strong>Result Page:</strong> 
+
+
+1 
+<a href="tax_listall.cfm?sw=27504&pg=2">2</a>
+
+<a href="tax_listall.cfm?sw=27504&pg=3">3</a>
+
+<a href="tax_listall.cfm?sw=27504&pg=4">4</a>
+
+<a href="tax_listall.cfm?sw=27504&pg=5">5</a>
+
+<a href="tax_listall.cfm?sw=27504&pg=6">6</a>
+
+<a href="tax_listall.cfm?sw=27504&pg=7">7</a>
+
+<a href="tax_listall.cfm?sw=27504&pg=2">></a></a>
+
+
+
+<hr align="center" width="300">
+
+
+
+
+
+</div>
+
+
+
+</td></tr>
+</table>
+
+</td></tr>
+</table>:ET:response_headersIC:Faraday::Utils::Headers{I"connection;
+TI"
+close;
+TI"	date;
+TI""Thu, 27 Feb 2014 04:18:48 GMT;
+TI"server;
+TI"Microsoft-IIS/6.0;
+TI"x-powered-by;
+TI"ASP.NET;
+TI"set-cookie;
+TI"ÍCFID=6526063;expires=Sat, 20-Feb-2044 04:18:48 GMT;path=/, CFTOKEN=87164276;expires=Sat, 20-Feb-2044 04:18:48 GMT;path=/, COUNTYID=2;path=/, SIZEID=1;path=/, ACTIVESTILL=1;path=/, BIGipServerNOC_HTTP_POOL=1382328512.20480.0000; path=/;
+TI"content-type;
+TI"text/html; charset=UTF-8;
+T:@names{I"connection;
+T@
+I"	date;
+T@I"server;
+T@I"x-powered-by;
+T@I"set-cookie;
+T@I"content-type;
+T@:@created_atf1393474754.962778:@expires_inf8.64e4

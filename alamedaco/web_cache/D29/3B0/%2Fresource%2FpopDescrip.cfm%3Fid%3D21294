@@ -1,0 +1,50 @@
+o: ActiveSupport::Cache::Entry:@valueU:Faraday::Response{:statusi»:	bodyI"0<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+
+	<title>Family Based Services</title>
+	
+<link rel="stylesheet" type="text/css" href="/style/style1.css">
+</head>
+
+<body>
+
+
+
+
+
+<table width="100%" border=0 height="100%">
+<tr>
+<td valign=top>
+<font size="+1"><strong>Family Based Services</strong></font><br>
+Programs that provide a wide variety of social services that are designed to support healthy family development, improve the family's ability to resolve problems (such as poverty, unemployment, ill health, homelessness, substandard housing, educational difficulties, substance abuse, adolescent pregnancy, delinquency and physical and developmental problems) and prevent the need for unnecessary placement of children in foster care, group homes, inpatient substance abuse or mental health treatment programs, residential training schools or other alternative environments when family problems reach crisis proportions. Services may include home visiting services that focus on public health issues (especially prenatal), mental health and substance abuse counseling, home management instruction, success in a child care setting, parenting skills development, stress management, tutoring, pregnancy awareness and AIDS awareness; may be available to the community at large, to families at risk for dissolution or those currently in crisis; and may be offered by a single agency or a coalition of agencies that have agreed to provide services according to a coordinated case plan.
+</td>
+</tr>
+</table>
+
+
+
+</body>
+</html>
+:ET:response_headersIC:Faraday::Utils::Headers{I"connection;
+TI"
+close;
+TI"	date;
+TI""Tue, 25 Feb 2014 21:24:52 GMT;
+TI"server;
+TI"Microsoft-IIS/6.0;
+TI"x-powered-by;
+TI"ASP.NET;
+TI"set-cookie;
+TI"ÍCFID=6491586;expires=Thu, 18-Feb-2044 21:24:52 GMT;path=/, CFTOKEN=92576543;expires=Thu, 18-Feb-2044 21:24:52 GMT;path=/, COUNTYID=2;path=/, SIZEID=1;path=/, ACTIVESTILL=1;path=/, BIGipServerNOC_HTTP_POOL=1382328512.20480.0000; path=/;
+TI"content-type;
+TI"text/html; charset=UTF-8;
+T:@names{I"connection;
+T@
+I"	date;
+T@I"server;
+T@I"x-powered-by;
+T@I"set-cookie;
+T@I"content-type;
+T@:@created_atf1393363517.0465338:@expires_inf8.64e4

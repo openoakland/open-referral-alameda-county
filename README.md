@@ -10,7 +10,7 @@ This is a short-term work plan to get the project some traction and build a proo
 
   [Completed by Dave](https://github.com/openoakland/open-referral-alameda-county/blob/master/HSD-required-fields-assessment-of-AC-data-source.csv)
 
-- [ ] **Data scraper:** If that 211 site **does** have sufficient data to deploy Ohana, write a proof-of-concept scraper to get data for the required fields for an Ohana instance
+- [✓] **Data scraper:** If that 211 site **does** have sufficient data to deploy Ohana, write a proof-of-concept scraper to get data for the required fields for an Ohana instance
 - [ ] **ETL for scraped data into Ohana spec:** Write up a small ETL app to transform the data into the structure necessary to load into the Ohana API
 - [ ] **Deploy Ohana API alpha:** Stand up an instance of Ohana API with the scraped data
 - [ ] **Deploy SMC Connect alpha:** Stand up an instance of SMC Connect ( the front-end for Ohana http://www.smc-connect.org/ ) so people can easily access the data for Alameda County
