@@ -20,6 +20,11 @@ This is a short-term work plan to get the project some traction and build a proo
 - Sameer ([@siruguri on Twitter](https://twitter.com/siruguri)) has taken the lead on organizing this effort in Alameda County
 - Sunny ([@SunnyRJuneja on Twitter](https://twitter.com/SunnyRJuneja)) is interested in doing a lot of the technical development (tentative choice seems to use mostly Ruby)
 - Dave ([@allafarce on Twitter](https://twitter.com/allafarce)) is helping out where useful (like writing this README and maybe helping with scrapers)
+- Folks that joined us at Oakland Data Day Feb 2013
+  - Dennis Hsieh (pointed us to multiple new datasets!)
+  - Paul Young (contributed a Python script to scrape some of Dennis' data)
+  - James Bond
+  - Mike Ubell
 
 ### Additional Background & Links
 
