@@ -1,0 +1,437 @@
+o: ActiveSupport::Cache::Entry:@valueU:Faraday::Response{:statusi»:	body"è;
+
+<html>
+<head>
+	<title>Resource Search Results</title>
+	
+</head>
+<body leftmargin="0" topmargin="0">
+	
+
+
+<style>
+<!--
+p
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 12pt;
+}
+
+h1
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 14pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 16pt;
+}
+h2
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 8pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+a
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 8pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+a:active
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 8pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+a:visited
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+
+a.headerLink:link
+{
+    COLOR: #FFFFFF;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+
+a.headerLink:active
+{
+    COLOR: #FFFFFF;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+
+a.headerLink:visited
+{
+    COLOR: #FFFFFF;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+
+span
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+span.bold
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 11pt;
+}
+span.headtitle
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 11pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 13pt;
+}
+span.header
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 14pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 16pt;
+}
+strong
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 11pt;
+}
+label
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+td
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+textarea
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+select
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+-->	
+}
+-->
+</style>
+
+<script language="JavaScript">
+
+</script>
+
+
+<table width="755" height="128" border="0" cellspacing="0" cellpadding="0">
+	
+	<tr>
+    	<td width="755" height="102" valign="top" colspan="2"><img src="/resource/images/rd_toppanel_1.gif" usemap="#Map1" width="250" height="102" hspace="0" vspace="0" border="0"><img src="/resource/images/rd_toppanel_2.gif" width="250" height="102" vspace="0" hspace="0" border="0"><img src="/resource/images/rd_toppanel_3.gif" width="255" height="102" hspace="0" vspace="0" border="0"></td>
+	</tr>
+	<tr> 
+	    <td width="755" height="2" valign="top" colspan="2"><img src="/resource/images/transparent.gif" width="755" height="2" vspace="0" hspace="0" border="0"></td>
+	</tr>
+	<tr>
+	    <td width="755" height="22" bgcolor="005499" align="center" colspan="2"> 
+    	<p>
+	    <a href="../resource/rdabout.cfm" class="headerLink">About The Directory</a><img src="/resource/images/transparent.gif" width="40" height="2" hspace="0" vspace="0" border="0">
+	    <a href="../resource/rduse.cfm" class="headerLink">How To Use The Directory</a><img src="/resource/images/transparent.gif" width="40" height="2" hspace="0" vspace="0" border="0">
+	    <a href="../resource/index.cfm" class="headerLink">Resource Finder</a><img src="/resource/images/transparent.gif" vspace="0" hspace="0" width="40" height="2" border="0">
+	    <a href="../resource/rdsponsor.cfm" class="headerLink">Sponsors</a><img src="/resource/images/transparent.gif" vspace="0" hspace="0" width="40" height="2" border="0">
+		<a href="../resource/rdcontact.cfm" class="headerLink">Feedback</a>
+	    </p></td>
+	</tr>
+  
+	<tr>
+		<td width="755" height="2" valign="top" colspan="2"><img src="/resource/images/transparent.gif" width="755" hspace="0" vspace="0" height="2" border="0"></td>
+	</tr>
+<map name="Map1"> 
+  <area shape="rect" coords="9,8,175,94" href="http://www.edenir.org" target="new">
+</map>
+
+
+
+
+	<tr><td width="160" valign="top">
+	
+	
+	<table width="160" height="282" border="0" cellspacing="0" cellpadding="0" rules="none">
+	  	<tr>
+		    <td width="160" height="6" colspan="3" valign="top" background="/resource/images/rdnavi_blueback.gif" align="left"><img src="/resource/images/rdnavi_blueback.gif" width="9" height="6" hspace="0" vspace="0" border="0"><img src="/resource/images/rdnavi_back1.gif" width="129" height="6" vspace="0" hspace="0" border="0"><img src="/resource/images/rdnavi_topcurve.gif" width="22" height="6" vspace="0" hspace="0" border="0"></td>
+	 	</tr>
+		
+		<tr>
+		    <td width="9" height="260" valign="top" background="/resource/images/rdnavi_blueback.gif" align="left"><img src="/resource/images/rdnavi_blueback.gif" width="9" height="260" hspace="0" vspace="0" border="0"></td>
+			<td width="129" height="260" valign="top" background="/resource/images/rdnavi_back1.gif" align="left"> 
+			<p><img src="/resource/images/transparent.gif" width="129" height="10" vspace="0" hspace="0" border="0">
+			<b><font size="1" face="Geneva, Arial, Helvetica, san-serif"><a href="http://www.irissoft.com/cccc/" target="_blank">Contra Costa<br>County Services</a></font></b></p>
+			<p><b><font face="Geneva, Arial, Helvetica, san-serif" size="1" color="#336699"><a href="http://www.cairs.org" target="_blank">CAIRS</a></font></b></p>
+			<p><b><font face="Geneva, Arial, Helvetica, san-serif" size="1" color="#336699"><a href="http://www.airs.org" target="_blank">AIRS</a></font></b></p>
+			<p><b><font face="Geneva, Arial, Helvetica, san-serif" size="1" color="#336699"><a href="http://www.nursinghomeguide.org" target="_blank">California Nursing Home Guide</a></font></b></p>
+			<p><b><font face="Geneva, Arial, Helvetica, san-serif" size="1" color="#336699"><a href="/resource/veteranServices.cfm">Veteran's Resources</a></font></b></p>
+			
+			
+		
+			<table width="125" border="1" cellspacing="0" cellpadding="4" bordercolor="336699">
+		        <tr> 
+					<td valign="top"> 
+			      	<p><b><font color="#336699">In order to use the Hotlist and Notes components, you must login to your account.</font></b></p>
+			       	
+					<p align="right">
+					
+						<a href="../myaccount/login.cfm?dest=http%3A%2F%2Fwww%2Ealamedaco%2Einfo%3A80%2Fresource%2Findex%2Ecfm%3F"><img src="/resource/images/loginbutton.gif" alt="Login Here" width="61" height="20" name="button7" border=0></a><br>
+					
+					<img src="/resource/images/transparent.gif" width="100" height="2" border="0" hspace="0" vspace="0"><br><a href="../resource/myresource.cfm"><img src="/resource/images/hotlist_button.gif" vspace="0" width="94" height="19" border=0 hspace="0"></a></p>
+					
+					
+					<p>&nbsp;</p>
+					</td>
+			 	</tr>
+			</table>
+		
+			</td>
+		
+			<td width="22" height="260" background="/resource/images/rdnavi_rsideblue.gif"><img src="/resource/images/transparent.gif" width="22" height="260" border="0" hspace="0" vspace="0"></td>
+		
+		</tr>
+		
+		<tr>
+	  	<td width="138" colspan="2" height="16" valign="top" background="/resource/images/rdnavi_blueback.gif"><img src="/resource/images/transparent.gif" width="9" height="16" border="0" hspace="0" vspace="0"><img src="/resource/images/transparent.gif" width="129" height="16" border="0" hspace="0" vspace="0"></td>
+		<td background="/resource/images/rdnavi_rsideblue.gif" valign="top"><img src="/resource/images/rdnavi_bottomcurve.gif" width="22" height="16" hspace="0" vspace="0" border="0"></td>
+		</tr>
+		
+	</table>
+
+	</td>
+
+	<td valign="top">
+
+	<table width=580 border="0" cellspacing="0" cellpadding="18">
+	<tr><td>
+
+
+
+<table width=540>
+
+<tr><td><p class="headtitle">Chambers of Commerce</p></td></tr>
+<tr><td><p class="">Local associations of business people, either operating their own companies or employed in organizations, who have organized to promote the welfare of their community (city, county, town, township or other locale), especially its commercial interests. Chambers of commerce direct their efforts to promoting the common economic interests of all the commercial enterprises within a locality rather than focusing on a particular industry, usually have an elected board of directors, and do their work through committees. They encourage the growth of new businesses, provide assistance to new firms seeking to locate in the community, advocate for actions that promote tourism and benefit the regional economy and serve as a voice for the business community at local and state levels. Member benefits may include publicity and advertising opportunities in vehicles such as member directories, visitor's guides and a community calendar; ribbon cutting ceremonies and grand openings for new establishments; business expos; job fairs; small business counseling; business seminars; member referrals; member-to-member discounts; health and other insurance; and a variety of social activities.</p><br></td></tr>
+<form action="tax_listall.cfm?sw=26761" method="POST">
+<tr><td>Narrow Results by City: 
+		<input type="hidden" name="isCity" value="1">
+		<select name="City">
+			<option value="a.city">-- All Cities -- 
+					
+			<option value="'Alameda'">Alameda 			
+			<option value="'Albany'">Albany 			
+			<option value="'Berkeley'">Berkeley 			
+			<option value="'Castro Valley'">Castro Valley 			
+			<option value="'Dublin'">Dublin 			
+			<option value="'Emeryville'">Emeryville 			
+			<option value="'Fremont'">Fremont 			
+			<option value="'Hayward'">Hayward 			
+			<option value="'Livermore'">Livermore 			
+			<option value="'Newark'">Newark 			
+			<option value="'Oakland'">Oakland 			
+			<option value="'Pleasanton'">Pleasanton 			
+			<option value="'San Leandro'">San Leandro 			
+			<option value="'Union City'">Union City 
+		</select> 
+		<input type="submit" value=" Go ">
+		</td></tr>
+</form>
+<tr><td><br></td></tr>
+
+<tr><td><br></td></tr>
+
+</table>
+
+
+
+<strong>Results 1 - 14 of 14</strong>
+
+
+<br><br>
+
+
+
+<table width="540">
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG003866_2_1_0">Alameda Chamber of Commerce</a><br>
+	Provides information about the City of Alameda for residents, visitors and businesses. A proactive voice for business, aims to improve the city's economic and civic vitality<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG003867_2_1_0">Albany Chamber of Commerce</a><br>
+	Works to maintain a positive business climate in Albany, to represent and assist Chamber members, and help build a better community for all<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG003868_2_1_0">Berkeley Chamber of Commerce</a><br>
+	Supports businesses in the City of Berkeley while aiming to also support the environment, certified green businesses and the sustainable business model<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG003869_2_1_0">Castro Valley / Eden Area Chamber of Commerce</a><br>
+	The Castro Valley/Eden Area Chamber of Commerce is a business organization that helps promote, market and provide networking opportunities for businesses<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG003870_2_1_0">Dublin Chamber of Commerce</a><br>
+	Chamber of Commerce is comprised of businesses working together to make Dublin a better place to live, work and do business. Serves as a voice for the business community on local issues<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG003871_2_1_0">Emeryville Chamber of Commerce</a><br>
+	The Chamber offers a variety of programs, events, and other functions to build a stronger and healthier community through business and economic growth<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG003872_2_1_0">Fremont Chamber of Commerce</a><br>
+	The Mission of the Fremont Chamber of Commerce is to promote, support and enhance a positive business environment.Offer a wide variety of goods and services as well as community volunteer opportunities.<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG003873_2_1_0">Hayward Chamber of Commerce</a><br>
+	Chamber of Commerce provides pro-business representation for its membership. Serves as the largest business representative in the City of Hayward<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG003874_2_1_0">Livermore Chamber of Commerce</a><br>
+	Advocates for business in the City of Livermore<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG003877_2_1_0">Newark Chamber of Commerce</a><br>
+	Plays an active role in community and business development activities. Primary goal is to help new and existing businesses succeed.<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG003875_2_1_0">Oakland Metropolitan Chamber of Commerce</a><br>
+	The Chamber is actively involved in public policy and providing valuable resources to their members. They‚Äôre proud to offer unprecedented benefits, member-to-member discounts, award-winning publications, and numerous opportunities to make local businesses prosper. <br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG003878_2_1_0">Pleasanton Chamber of Commerce</a><br>
+	Its mission is to support and advance small business development, business technology development, service projects and educational programs of the Pleasanton community<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG003876_2_1_0">San Leandro Chamber of Commerce</a><br>
+	Chamber of Commerce encourages business growth and prosperity in the City of San Leandro<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG003879_2_1_0">Union City Chamber of Commerce</a><br>
+	A private, voluntary, not-for-profit organization of business and professional people dedicated to improving the economic environment of Union City. Fosters business growth and prosperity.<br>
+	
+	<br></td>
+</tr>
+
+</table>
+
+
+
+
+
+
+
+
+</div>
+
+
+
+</td></tr>
+</table>
+
+</td></tr>
+</table>:response_headersIC:Faraday::Utils::Headers{I"connection:ETI"
+close;TI"	date;TI""Thu, 27 Feb 2014 06:59:58 GMT;TI"server;TI"Microsoft-IIS/6.0;TI"x-powered-by;TI"ASP.NET;TI"set-cookie;TI"ÍCFID=6153303;expires=Sat, 20-Feb-2044 06:59:58 GMT;path=/, CFTOKEN=85374746;expires=Sat, 20-Feb-2044 06:59:58 GMT;path=/, COUNTYID=2;path=/, SIZEID=1;path=/, ACTIVESTILL=1;path=/, BIGipServerNOC_HTTP_POOL=1365551296.20480.0000; path=/;TI"content-type;TI"text/html; charset=UTF-8;T:@names{I"connection;T@
+I"	date;T@I"server;T@I"x-powered-by;T@I"set-cookie;T@I"content-type;T@:@created_atf1393484424.107313:@expires_inf2.592e6

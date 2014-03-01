@@ -1,0 +1,469 @@
+o: ActiveSupport::Cache::Entry:@valueU:Faraday::Response{:statusi»:	bodyI"‘;
+
+<html>
+<head>
+	<title>Resource Search Results</title>
+	
+</head>
+<body leftmargin="0" topmargin="0">
+	
+
+
+<style>
+<!--
+p
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 12pt;
+}
+
+h1
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 14pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 16pt;
+}
+h2
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 8pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+a
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 8pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+a:active
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 8pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+a:visited
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+
+a.headerLink:link
+{
+    COLOR: #FFFFFF;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+
+a.headerLink:active
+{
+    COLOR: #FFFFFF;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+
+a.headerLink:visited
+{
+    COLOR: #FFFFFF;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+
+span
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+span.bold
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 11pt;
+}
+span.headtitle
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 11pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 13pt;
+}
+span.header
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 14pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 16pt;
+}
+strong
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 11pt;
+}
+label
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+td
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+textarea
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+select
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+-->	
+}
+-->
+</style>
+
+<script language="JavaScript">
+
+</script>
+
+
+<table width="755" height="128" border="0" cellspacing="0" cellpadding="0">
+	
+	<tr>
+    	<td width="755" height="102" valign="top" colspan="2"><img src="/resource/images/rd_toppanel_1.gif" usemap="#Map1" width="250" height="102" hspace="0" vspace="0" border="0"><img src="/resource/images/rd_toppanel_2.gif" width="250" height="102" vspace="0" hspace="0" border="0"><img src="/resource/images/rd_toppanel_3.gif" width="255" height="102" hspace="0" vspace="0" border="0"></td>
+	</tr>
+	<tr> 
+	    <td width="755" height="2" valign="top" colspan="2"><img src="/resource/images/transparent.gif" width="755" height="2" vspace="0" hspace="0" border="0"></td>
+	</tr>
+	<tr>
+	    <td width="755" height="22" bgcolor="005499" align="center" colspan="2"> 
+    	<p>
+	    <a href="../resource/rdabout.cfm" class="headerLink">About The Directory</a><img src="/resource/images/transparent.gif" width="40" height="2" hspace="0" vspace="0" border="0">
+	    <a href="../resource/rduse.cfm" class="headerLink">How To Use The Directory</a><img src="/resource/images/transparent.gif" width="40" height="2" hspace="0" vspace="0" border="0">
+	    <a href="../resource/index.cfm" class="headerLink">Resource Finder</a><img src="/resource/images/transparent.gif" vspace="0" hspace="0" width="40" height="2" border="0">
+	    <a href="../resource/rdsponsor.cfm" class="headerLink">Sponsors</a><img src="/resource/images/transparent.gif" vspace="0" hspace="0" width="40" height="2" border="0">
+		<a href="../resource/rdcontact.cfm" class="headerLink">Feedback</a>
+	    </p></td>
+	</tr>
+  
+	<tr>
+		<td width="755" height="2" valign="top" colspan="2"><img src="/resource/images/transparent.gif" width="755" hspace="0" vspace="0" height="2" border="0"></td>
+	</tr>
+<map name="Map1"> 
+  <area shape="rect" coords="9,8,175,94" href="http://www.edenir.org" target="new">
+</map>
+
+
+
+
+	<tr><td width="160" valign="top">
+	
+	
+	<table width="160" height="282" border="0" cellspacing="0" cellpadding="0" rules="none">
+	  	<tr>
+		    <td width="160" height="6" colspan="3" valign="top" background="/resource/images/rdnavi_blueback.gif" align="left"><img src="/resource/images/rdnavi_blueback.gif" width="9" height="6" hspace="0" vspace="0" border="0"><img src="/resource/images/rdnavi_back1.gif" width="129" height="6" vspace="0" hspace="0" border="0"><img src="/resource/images/rdnavi_topcurve.gif" width="22" height="6" vspace="0" hspace="0" border="0"></td>
+	 	</tr>
+		
+		<tr>
+		    <td width="9" height="260" valign="top" background="/resource/images/rdnavi_blueback.gif" align="left"><img src="/resource/images/rdnavi_blueback.gif" width="9" height="260" hspace="0" vspace="0" border="0"></td>
+			<td width="129" height="260" valign="top" background="/resource/images/rdnavi_back1.gif" align="left"> 
+			<p><img src="/resource/images/transparent.gif" width="129" height="10" vspace="0" hspace="0" border="0">
+			<b><font size="1" face="Geneva, Arial, Helvetica, san-serif"><a href="http://www.irissoft.com/cccc/" target="_blank">Contra Costa<br>County Services</a></font></b></p>
+			<p><b><font face="Geneva, Arial, Helvetica, san-serif" size="1" color="#336699"><a href="http://www.cairs.org" target="_blank">CAIRS</a></font></b></p>
+			<p><b><font face="Geneva, Arial, Helvetica, san-serif" size="1" color="#336699"><a href="http://www.airs.org" target="_blank">AIRS</a></font></b></p>
+			<p><b><font face="Geneva, Arial, Helvetica, san-serif" size="1" color="#336699"><a href="http://www.nursinghomeguide.org" target="_blank">California Nursing Home Guide</a></font></b></p>
+			<p><b><font face="Geneva, Arial, Helvetica, san-serif" size="1" color="#336699"><a href="/resource/veteranServices.cfm">Veteran's Resources</a></font></b></p>
+			
+			
+		
+			<table width="125" border="1" cellspacing="0" cellpadding="4" bordercolor="336699">
+		        <tr> 
+					<td valign="top"> 
+			      	<p><b><font color="#336699">In order to use the Hotlist and Notes components, you must login to your account.</font></b></p>
+			       	
+					<p align="right">
+					
+						<a href="../myaccount/login.cfm?dest=http%3A%2F%2Fwww%2Ealamedaco%2Einfo%3A80%2Fresource%2Findex%2Ecfm%3F"><img src="/resource/images/loginbutton.gif" alt="Login Here" width="61" height="20" name="button7" border=0></a><br>
+					
+					<img src="/resource/images/transparent.gif" width="100" height="2" border="0" hspace="0" vspace="0"><br><a href="../resource/myresource.cfm"><img src="/resource/images/hotlist_button.gif" vspace="0" width="94" height="19" border=0 hspace="0"></a></p>
+					
+					
+					<p>&nbsp;</p>
+					</td>
+			 	</tr>
+			</table>
+		
+			</td>
+		
+			<td width="22" height="260" background="/resource/images/rdnavi_rsideblue.gif"><img src="/resource/images/transparent.gif" width="22" height="260" border="0" hspace="0" vspace="0"></td>
+		
+		</tr>
+		
+		<tr>
+	  	<td width="138" colspan="2" height="16" valign="top" background="/resource/images/rdnavi_blueback.gif"><img src="/resource/images/transparent.gif" width="9" height="16" border="0" hspace="0" vspace="0"><img src="/resource/images/transparent.gif" width="129" height="16" border="0" hspace="0" vspace="0"></td>
+		<td background="/resource/images/rdnavi_rsideblue.gif" valign="top"><img src="/resource/images/rdnavi_bottomcurve.gif" width="22" height="16" hspace="0" vspace="0" border="0"></td>
+		</tr>
+		
+	</table>
+
+	</td>
+
+	<td valign="top">
+
+	<table width=580 border="0" cellspacing="0" cellpadding="18">
+	<tr><td>
+
+
+
+<table width=540>
+
+<tr><td><p class="headtitle">Emergency Preparedness and Response Training</p></td></tr>
+<tr><td><p class="">Programs that provide training and/or technical assistance for the public and private sectors to enhance emergency planning efforts and the level of overall preparedness by government organizations, community based agencies, businesses, individuals and families for a major disaster or large-scale emergency that disrupts the normal functioning of a community.</p><br></td></tr>
+<form action="tax_listall.cfm?sw=28293" method="POST">
+<tr><td>Narrow Results by City: 
+		<input type="hidden" name="isCity" value="1">
+		<select name="City">
+			<option value="a.city">-- All Cities -- 
+					
+			<option value="'Alameda'">Alameda 			
+			<option value="'Albany'">Albany 			
+			<option value="'Castro Valley'">Castro Valley 			
+			<option value="'Fremont'">Fremont 			
+			<option value="'Livermore'">Livermore 			
+			<option value="'Oakland'">Oakland 			
+			<option value="'Pleasanton'">Pleasanton 			
+			<option value="'Sacramento'">Sacramento 			
+			<option value="'Walnut Creek'">Walnut Creek 
+		</select> 
+		<input type="submit" value=" Go ">
+		</td></tr>
+</form>
+<tr><td><br></td></tr>
+
+<form action="tax_listall.cfm?sw=28293" method="POST">
+<tr><td>Narrow Results by Language: <br>
+		<input type="hidden" name="isLanguage" value="1">
+    <input type="image" name="None" src="images/all.gif" alt="All Languages" align="bottom">
+
+    <input type="image" name="Spanish" src="images/Spanish.gif" alt="Spanish" align="bottom">               
+
+		</td></tr>
+    
+</form>
+
+<tr><td><br></td></tr>
+
+</table>
+
+
+
+<strong>Results 1 - 15 of 15</strong>
+
+
+<br><br>
+
+
+
+<table width="540">
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG004655_2_1_0">Alameda County Fire Department (ACFD)  |  CERT (Community Emergency Response Team) and PEP (Personal Emergency Preparedness) Training  |  </a><br>
+	Offers a variety of training to provide community members with the tools and resources to become better prepared and self-sufficient during a large scale emergency or disaster<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG002210_2_1_0">Alameda Fire Department (AFD)  |  AFD Administration  |  </a><br>
+	Disaster preparedness through Community Emergency  Response Teams (CERTs). City's Office of Emergency Services aims to reduce harm from disasters<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG004681_2_1_0">Alameda Fire Department (AFD)  |  AFD Disaster Preparedness  |  </a><br>
+	Offers Code Red alert and warning system, Community Emergency Response Team (CERT) training, and emergency operation plan for residents and businesses of the City of Alameda<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG002640_2_1_0">Albany Fire Department (AFD)  |  Disaster Preparedness  |  CERT Training, Online Resources, Emergency Operations Center</a><br>
+	Disaster Preparedness programs in City of Albany include CERT/ALERT neighborhood disaster preparedness training , online resources, and Emergency Operations Center<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG004316_2_1_0">California Volunteers</a><br>
+	CaliforniaVolunteers is the state office that manages programs and initiatives aimed at increasing the number of Californians engaged in service and volunteering<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG000102_2_1_0">CalOES - Governor's Office of Emergency Services  |  Coastal Region Office  |  </a><br>
+	Provides information to government, businesses and community groups on emergency management<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG003063_2_1_0">CARD - Collaborating Agencies Responding to Disasters  |  Preparedness Response Services for Nonprofits and Faith Agencies  |  </a><br>
+	CARD provides emergency preparedness and disaster response training and tools for nonprofits, businesses, and faith-based organizations<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG002278_2_1_0">Community Resources for Independent Living (CRIL)  |  Disaster Preparedness  |  </a><br>
+	Facilitates workshops in the disability community to prepare for any natural disaster that may occur<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG003133_2_1_0">Fremont City Fire Department  |  Disaster and Community Emergency Response Team (CERTs) Training  |  </a><br>
+	Assists the Fremont Fire Department and the City of Fremont in many aspects of disaster preparedness<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG002621_2_1_0">Livermore - Pleasanton Fire Department (LPFD)  |  Emergency Preparedness Resources and Training  |  </a><br>
+	Provides online information, downloadable guides and training classes related to emergency preparedness and response<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG002623_2_1_0">Livermore - Pleasanton Fire Department (LPFD)  |  Fire Prevention / Disaster Preparedness  |  </a><br>
+	Provides fire, disaster and emergency planning education in local schools and to the community at large<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG003134_2_1_0">Oakland Fire Department (OFD)  |  CORE (Citizens of Oakland Respond to Emergencies) Training  |  </a><br>
+	CORE is a free disaster response training program for individuals, neighborhood groups and community-based organizations in Oakland<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG001384_2_1_0">Oakland Fire Department (OFD)  |  Training and Public Education  |  </a><br>
+	Oakland Fire Department responds to emergency calls with about 80% medical in nature <br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG000383_2_1_0">Oakland Fire Department, Office of Emergency Services</a><br>
+	City of Oakland disaster and emergency planning services, including prevention, preparedness, response, recovery and training<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG001094_2_1_0">QUEST - Quality, Emergency & Safety Training  |  Emergency and Safety Training  |  </a><br>
+	Supports emergency and safety readiness by providing CPR, First Aid and Disaster Planning courses<br>
+	
+	<br></td>
+</tr>
+
+</table>
+
+
+
+
+
+
+
+
+</div>
+
+
+
+</td></tr>
+</table>
+
+</td></tr>
+</table>:ET:response_headersIC:Faraday::Utils::Headers{I"connection;
+TI"
+close;
+TI"	date;
+TI""Thu, 27 Feb 2014 06:45:30 GMT;
+TI"server;
+TI"Microsoft-IIS/6.0;
+TI"x-powered-by;
+TI"ASP.NET;
+TI"set-cookie;
+TI"ÍCFID=6152917;expires=Sat, 20-Feb-2044 06:45:30 GMT;path=/, CFTOKEN=48503859;expires=Sat, 20-Feb-2044 06:45:30 GMT;path=/, COUNTYID=2;path=/, SIZEID=1;path=/, ACTIVESTILL=1;path=/, BIGipServerNOC_HTTP_POOL=1365551296.20480.0000; path=/;
+TI"content-type;
+TI"text/html; charset=UTF-8;
+T:@names{I"connection;
+T@
+I"	date;
+T@I"server;
+T@I"x-powered-by;
+T@I"set-cookie;
+T@I"content-type;
+T@:@created_atf1393483556.7794418:@expires_inf8.64e4

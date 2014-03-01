@@ -1,0 +1,50 @@
+o: ActiveSupport::Cache::Entry:@valueU:Faraday::Response{:statusi»:	bodyI"<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+
+	<title>Homeless People</title>
+	
+<link rel="stylesheet" type="text/css" href="/style/style1.css">
+</head>
+
+<body>
+
+
+
+
+
+<table width="100%" border=0 height="100%">
+<tr>
+<td valign=top>
+<font size="+1"><strong>Homeless People</strong></font><br>
+Individuals and families who have no fixed, regular and adequate residence, who are residing temporarily with relatives or friends or who live on the street, in emergency or transitional shelters, in a hotel or motel paid for with a shelter voucher, in seriously substandard housing or in an abandoned building, place of business, car or other vehicle or other public or private place that is not ordinarily used as a regular sleeping accommodation for people. Some people who are homeless have issues with substance abuse, chronic or severe mental illness, chronic unemployment or underemployment, or other problems that prevent them from obtaining housing.
+</td>
+</tr>
+</table>
+
+
+
+</body>
+</html>
+:ET:response_headersIC:Faraday::Utils::Headers{I"connection;
+TI"
+close;
+TI"	date;
+TI""Tue, 25 Feb 2014 21:25:05 GMT;
+TI"server;
+TI"Microsoft-IIS/6.0;
+TI"x-powered-by;
+TI"ASP.NET;
+TI"set-cookie;
+TI"ÍCFID=6491686;expires=Thu, 18-Feb-2044 21:25:05 GMT;path=/, CFTOKEN=70972877;expires=Thu, 18-Feb-2044 21:25:05 GMT;path=/, COUNTYID=2;path=/, SIZEID=1;path=/, ACTIVESTILL=1;path=/, BIGipServerNOC_HTTP_POOL=1382328512.20480.0000; path=/;
+TI"content-type;
+TI"text/html; charset=UTF-8;
+T:@names{I"connection;
+T@
+I"	date;
+T@I"server;
+T@I"x-powered-by;
+T@I"set-cookie;
+T@I"content-type;
+T@:@created_atf1393363530.0142589:@expires_inf8.64e4

@@ -1,0 +1,486 @@
+o: ActiveSupport::Cache::Entry:@valueU:Faraday::Response{:statusi»:	bodyI"ä@
+
+<html>
+<head>
+	<title>Resource Search Results</title>
+	
+</head>
+<body leftmargin="0" topmargin="0">
+	
+
+
+<style>
+<!--
+p
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 12pt;
+}
+
+h1
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 14pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 16pt;
+}
+h2
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 8pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+a
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 8pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+a:active
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 8pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+a:visited
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+
+a.headerLink:link
+{
+    COLOR: #FFFFFF;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+
+a.headerLink:active
+{
+    COLOR: #FFFFFF;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+
+a.headerLink:visited
+{
+    COLOR: #FFFFFF;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+
+span
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+span.bold
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 11pt;
+}
+span.headtitle
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 11pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 13pt;
+}
+span.header
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 14pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 16pt;
+}
+strong
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 11pt;
+}
+label
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+td
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+textarea
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+select
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+-->	
+}
+-->
+</style>
+
+<script language="JavaScript">
+
+</script>
+
+
+<table width="755" height="128" border="0" cellspacing="0" cellpadding="0">
+	
+	<tr>
+    	<td width="755" height="102" valign="top" colspan="2"><img src="/resource/images/rd_toppanel_1.gif" usemap="#Map1" width="250" height="102" hspace="0" vspace="0" border="0"><img src="/resource/images/rd_toppanel_2.gif" width="250" height="102" vspace="0" hspace="0" border="0"><img src="/resource/images/rd_toppanel_3.gif" width="255" height="102" hspace="0" vspace="0" border="0"></td>
+	</tr>
+	<tr> 
+	    <td width="755" height="2" valign="top" colspan="2"><img src="/resource/images/transparent.gif" width="755" height="2" vspace="0" hspace="0" border="0"></td>
+	</tr>
+	<tr>
+	    <td width="755" height="22" bgcolor="005499" align="center" colspan="2"> 
+    	<p>
+	    <a href="../resource/rdabout.cfm" class="headerLink">About The Directory</a><img src="/resource/images/transparent.gif" width="40" height="2" hspace="0" vspace="0" border="0">
+	    <a href="../resource/rduse.cfm" class="headerLink">How To Use The Directory</a><img src="/resource/images/transparent.gif" width="40" height="2" hspace="0" vspace="0" border="0">
+	    <a href="../resource/index.cfm" class="headerLink">Resource Finder</a><img src="/resource/images/transparent.gif" vspace="0" hspace="0" width="40" height="2" border="0">
+	    <a href="../resource/rdsponsor.cfm" class="headerLink">Sponsors</a><img src="/resource/images/transparent.gif" vspace="0" hspace="0" width="40" height="2" border="0">
+		<a href="../resource/rdcontact.cfm" class="headerLink">Feedback</a>
+	    </p></td>
+	</tr>
+  
+	<tr>
+		<td width="755" height="2" valign="top" colspan="2"><img src="/resource/images/transparent.gif" width="755" hspace="0" vspace="0" height="2" border="0"></td>
+	</tr>
+<map name="Map1"> 
+  <area shape="rect" coords="9,8,175,94" href="http://www.edenir.org" target="new">
+</map>
+
+
+
+
+	<tr><td width="160" valign="top">
+	
+	
+	<table width="160" height="282" border="0" cellspacing="0" cellpadding="0" rules="none">
+	  	<tr>
+		    <td width="160" height="6" colspan="3" valign="top" background="/resource/images/rdnavi_blueback.gif" align="left"><img src="/resource/images/rdnavi_blueback.gif" width="9" height="6" hspace="0" vspace="0" border="0"><img src="/resource/images/rdnavi_back1.gif" width="129" height="6" vspace="0" hspace="0" border="0"><img src="/resource/images/rdnavi_topcurve.gif" width="22" height="6" vspace="0" hspace="0" border="0"></td>
+	 	</tr>
+		
+		<tr>
+		    <td width="9" height="260" valign="top" background="/resource/images/rdnavi_blueback.gif" align="left"><img src="/resource/images/rdnavi_blueback.gif" width="9" height="260" hspace="0" vspace="0" border="0"></td>
+			<td width="129" height="260" valign="top" background="/resource/images/rdnavi_back1.gif" align="left"> 
+			<p><img src="/resource/images/transparent.gif" width="129" height="10" vspace="0" hspace="0" border="0">
+			<b><font size="1" face="Geneva, Arial, Helvetica, san-serif"><a href="http://www.irissoft.com/cccc/" target="_blank">Contra Costa<br>County Services</a></font></b></p>
+			<p><b><font face="Geneva, Arial, Helvetica, san-serif" size="1" color="#336699"><a href="http://www.cairs.org" target="_blank">CAIRS</a></font></b></p>
+			<p><b><font face="Geneva, Arial, Helvetica, san-serif" size="1" color="#336699"><a href="http://www.airs.org" target="_blank">AIRS</a></font></b></p>
+			<p><b><font face="Geneva, Arial, Helvetica, san-serif" size="1" color="#336699"><a href="http://www.nursinghomeguide.org" target="_blank">California Nursing Home Guide</a></font></b></p>
+			<p><b><font face="Geneva, Arial, Helvetica, san-serif" size="1" color="#336699"><a href="/resource/veteranServices.cfm">Veteran's Resources</a></font></b></p>
+			
+			
+		
+			<table width="125" border="1" cellspacing="0" cellpadding="4" bordercolor="336699">
+		        <tr> 
+					<td valign="top"> 
+			      	<p><b><font color="#336699">In order to use the Hotlist and Notes components, you must login to your account.</font></b></p>
+			       	
+					<p align="right">
+					
+						<a href="../myaccount/login.cfm?dest=http%3A%2F%2Fwww%2Ealamedaco%2Einfo%3A80%2Fresource%2Findex%2Ecfm%3F"><img src="/resource/images/loginbutton.gif" alt="Login Here" width="61" height="20" name="button7" border=0></a><br>
+					
+					<img src="/resource/images/transparent.gif" width="100" height="2" border="0" hspace="0" vspace="0"><br><a href="../resource/myresource.cfm"><img src="/resource/images/hotlist_button.gif" vspace="0" width="94" height="19" border=0 hspace="0"></a></p>
+					
+					
+					<p>&nbsp;</p>
+					</td>
+			 	</tr>
+			</table>
+		
+			</td>
+		
+			<td width="22" height="260" background="/resource/images/rdnavi_rsideblue.gif"><img src="/resource/images/transparent.gif" width="22" height="260" border="0" hspace="0" vspace="0"></td>
+		
+		</tr>
+		
+		<tr>
+	  	<td width="138" colspan="2" height="16" valign="top" background="/resource/images/rdnavi_blueback.gif"><img src="/resource/images/transparent.gif" width="9" height="16" border="0" hspace="0" vspace="0"><img src="/resource/images/transparent.gif" width="129" height="16" border="0" hspace="0" vspace="0"></td>
+		<td background="/resource/images/rdnavi_rsideblue.gif" valign="top"><img src="/resource/images/rdnavi_bottomcurve.gif" width="22" height="16" hspace="0" vspace="0" border="0"></td>
+		</tr>
+		
+	</table>
+
+	</td>
+
+	<td valign="top">
+
+	<table width=580 border="0" cellspacing="0" cellpadding="18">
+	<tr><td>
+
+
+
+<table width=540>
+
+<tr><td><p class="headtitle">Older Adult/Disability Related Supportive Housing</p></td></tr>
+<tr><td><p class="">Residential facilities for older adults and/or people with disabilities who are unable to function in an independent living environment because they need assistance with toileting, bathing, dressing, medication management and administration, meals and housekeeping and other activities of daily living, but do not require nursing care on a regular basis. Living options range from state institutions for individuals with the most severe disabilities who require intensive services to settings that enable individuals with disabilities to live with their own families or in their own homes or apartments with supportive services from community-based supported living providers. Alternatives in between include health care facilities for people with a primary need for developmental services in combination with an intermittent need for skilled nursing care; community care facilities (residential care homes or group homes) for people who require varying levels of supervision and assistance in the activities of daily living; assisted living facilities; continuing care retirement communities; life care communities; foster family placements for adults who will benefit from interaction in a family environment; and semi-independent living facilities for individuals with disabilities who need minimal levels of support to live and work in the community. Some of these facilities are licensed by the state.</p><br></td></tr>
+<form action="tax_listall.cfm?sw=27384" method="POST">
+<tr><td>Narrow Results by City: 
+		<input type="hidden" name="isCity" value="1">
+		<select name="City">
+			<option value="a.city">-- All Cities -- 
+					
+			<option value="''"> 			
+			<option value="'Alameda'">Alameda 			
+			<option value="'Berkeley'">Berkeley 			
+			<option value="'Danville'">Danville 			
+			<option value="'Hayward'">Hayward 			
+			<option value="'Oakland'">Oakland 			
+			<option value="'Richmond'">Richmond 			
+			<option value="'San Leandro'">San Leandro 			
+			<option value="'Union City'">Union City 
+		</select> 
+		<input type="submit" value=" Go ">
+		</td></tr>
+</form>
+<tr><td><br></td></tr>
+
+<form action="tax_listall.cfm?sw=27384" method="POST">
+<tr><td>Narrow Results by Language: <br>
+		<input type="hidden" name="isLanguage" value="1">
+    <input type="image" name="None" src="images/all.gif" alt="All Languages" align="bottom">
+
+    <input type="image" name="Mandarin" src="images/mandarin.gif" alt="Chinese (Mandarin)" align="bottom"> <input type="image" name="Cantonese" src="images/cantonese.gif" alt="Chinese (Cantonese)" align="bottom"> <input type="image" name="Farsi" src="images/Farsi.gif" alt="Farsi" align="bottom"> <input type="image" name="Spanish" src="images/Spanish.gif" alt="Spanish" align="bottom">               
+
+		</td></tr>
+    
+</form>
+
+<tr><td><br></td></tr>
+
+</table>
+
+
+
+<strong>Results 1 - 15 of 17</strong>
+
+
+<br><br>
+
+
+
+<table width="540">
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG003196_2_1_0">Alameda Point Collaborative (APC)</a><br>
+	APC is a supportive housing community, providing housing, services and community programs to support our residents and families, including people with disabilities and veterans so that they need never know the struggles of homelessness again<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG002285_2_1_0">Allen Temple Baptist Church  |  Allen Temple Housing and Economic Development Corporation (ATHEDCO)  |  </a><br>
+	Provide affordable apartments in Oakland for seniors age 62 and over<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG000082_2_1_0">American Baptist Homes of the West, Inc. (ABHOW)  |  Grand Lake Gardens  |  </a><br>
+	Flexibility and choice make Grand Lake Gardens an exceptional retirement value<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG002027_2_1_0">American Baptist Homes of the West, Inc. (ABHOW)  |  Piedmont Gardens  |  </a><br>
+	Offers four levels of living for senior citizens, residential, assisted, memory support and skilled nursing care<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG004251_2_1_0">AssistedLivingFacilities.org</a><br>
+	Have compiled a directory of over 36,100 licensed assisted living communities in the United States<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG001322_2_1_0">Bonita House, Inc.  |  Supported Independent Living Program (SIL)  |  </a><br>
+	Offers supported transitional and permanent housing to dual diagnosed persons at risk for homelessness<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG000169_2_1_0">California/Nevada Methodist Homes  |  Lake Park  |  </a><br>
+	Provides residential facilities and continuing care services for seniors age 65 or over. Accepts direct admits into assisted living and skilled nursing units. Private<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG001075_2_1_0">Christian Residential Care Home I  |  Residential Care for Adults with Disabilities  |  </a><br>
+	Residential care facility for adults with disabilities, age 18-59<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG000202_2_1_0">Community Access Supported Living  |  Supported Living Services (SLS)  |  </a><br>
+	Supported living services for adults with developmental disabilities<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG002615_2_1_0">East Bay Innovations (EBI)  |  Supported Living Services (SLS)  |  </a><br>
+	Offers support services to assist persons with developmental disabilities to live on their own. Typically serves people who need more than 40 hours of support per month, and up to 24 hours a day<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG000447_2_1_0">Elder Care Alliance  |  Salem Lutheran Home  |  </a><br>
+	Provides a continuum of care and living options for seniors age 60 or over. Includes residential care, assisted living, Alzheimer's and other dementia care and skilled nursing<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG000342_2_1_0">Masonic Home of California at Union City</a><br>
+	Provides independent living, assisted living and skilled nursing care for California Masons and their wives or widows<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG000346_2_1_0">Mercy Retirement and Care Center  |  Assisted Living and Skilled Nursing  |  </a><br>
+	Independent living, assisted living, memory care and skilled nursing care for seniors, age 65 or over, and individuals with disabilities<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG003660_2_1_0">RN Elder Care Provider, Inc.  |  RN Elder Care Home  |  </a><br>
+	Offers 24 hours a day residential care facility for the elderly<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG000696_2_1_0">Serra Center  |  Intermediate Care Facilities for the Developmentally Disabled - Handicapped (ICF-DDH) and ILS/Supported Living Services  |  </a><br>
+	ICF-DDH Residential Care Homes, Independent and Supported Living Skills services for developmentally disabled adults<br>
+	
+	<br></td>
+</tr>
+
+</table>
+
+
+
+
+
+<br>
+<hr align="center" width="300">
+<div align="center">
+
+<strong>Result Page:</strong> 
+
+
+1 
+<a href="tax_listall.cfm?sw=27384&pg=2">2</a>
+
+<a href="tax_listall.cfm?sw=27384&pg=2">></a></a>
+
+
+
+<hr align="center" width="300">
+
+
+
+
+
+</div>
+
+
+
+</td></tr>
+</table>
+
+</td></tr>
+</table>:ET:response_headersIC:Faraday::Utils::Headers{I"connection;
+TI"
+close;
+TI"	date;
+TI""Thu, 27 Feb 2014 04:18:51 GMT;
+TI"server;
+TI"Microsoft-IIS/6.0;
+TI"x-powered-by;
+TI"ASP.NET;
+TI"set-cookie;
+TI"ÍCFID=6526065;expires=Sat, 20-Feb-2044 04:18:51 GMT;path=/, CFTOKEN=23172855;expires=Sat, 20-Feb-2044 04:18:51 GMT;path=/, COUNTYID=2;path=/, SIZEID=1;path=/, ACTIVESTILL=1;path=/, BIGipServerNOC_HTTP_POOL=1382328512.20480.0000; path=/;
+TI"content-type;
+TI"text/html; charset=UTF-8;
+T:@names{I"connection;
+T@
+I"	date;
+T@I"server;
+T@I"x-powered-by;
+T@I"set-cookie;
+T@I"content-type;
+T@:@created_atf1393474759.8967109:@expires_inf8.64e4

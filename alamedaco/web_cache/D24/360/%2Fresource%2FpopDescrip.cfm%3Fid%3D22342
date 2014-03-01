@@ -1,0 +1,50 @@
+o: ActiveSupport::Cache::Entry:@valueU:Faraday::Response{:statusi»:	bodyI"<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+
+	<title>Places of Worship</title>
+	
+<link rel="stylesheet" type="text/css" href="/style/style1.css">
+</head>
+
+<body>
+
+
+
+
+
+<table width="100%" border=0 height="100%">
+<tr>
+<td valign=top>
+<font size="+1"><strong>Places of Worship</strong></font><br>
+Churches, synagogues, mosques and other places of worship where people of different religious persuasions gather to practice their faith.
+</td>
+</tr>
+</table>
+
+
+
+</body>
+</html>
+:ET:response_headersIC:Faraday::Utils::Headers{I"connection;
+TI"
+close;
+TI"	date;
+TI""Tue, 25 Feb 2014 21:24:53 GMT;
+TI"server;
+TI"Microsoft-IIS/6.0;
+TI"x-powered-by;
+TI"ASP.NET;
+TI"set-cookie;
+TI"ÍCFID=6112980;expires=Thu, 18-Feb-2044 21:24:53 GMT;path=/, CFTOKEN=17660641;expires=Thu, 18-Feb-2044 21:24:53 GMT;path=/, COUNTYID=2;path=/, SIZEID=1;path=/, ACTIVESTILL=1;path=/, BIGipServerNOC_HTTP_POOL=1365551296.20480.0000; path=/;
+TI"content-type;
+TI"text/html; charset=UTF-8;
+T:@names{I"connection;
+T@
+I"	date;
+T@I"server;
+T@I"x-powered-by;
+T@I"set-cookie;
+T@I"content-type;
+T@:@created_atf1393363518.715016:@expires_inf8.64e4

@@ -1,0 +1,447 @@
+o: ActiveSupport::Cache::Entry:@valueU:Faraday::Response{:statusiÈ:	bodyI"ù9
+
+<html>
+<head>
+	<title>Resource Search Results</title>
+	
+</head>
+<body leftmargin="0" topmargin="0">
+	
+
+
+<style>
+<!--
+p
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 12pt;
+}
+
+h1
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 14pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 16pt;
+}
+h2
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 8pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+a
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 8pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+a:active
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 8pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+a:visited
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+
+a.headerLink:link
+{
+    COLOR: #FFFFFF;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+
+a.headerLink:active
+{
+    COLOR: #FFFFFF;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+
+a.headerLink:visited
+{
+    COLOR: #FFFFFF;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+
+span
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+span.bold
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 11pt;
+}
+span.headtitle
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 11pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 13pt;
+}
+span.header
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 14pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 16pt;
+}
+strong
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 11pt;
+}
+label
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+td
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+textarea
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+select
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+-->	
+}
+-->
+</style>
+
+<script language="JavaScript">
+
+</script>
+
+
+<table width="755" height="128" border="0" cellspacing="0" cellpadding="0">
+	
+	<tr>
+    	<td width="755" height="102" valign="top" colspan="2"><img src="/resource/images/rd_toppanel_1.gif" usemap="#Map1" width="250" height="102" hspace="0" vspace="0" border="0"><img src="/resource/images/rd_toppanel_2.gif" width="250" height="102" vspace="0" hspace="0" border="0"><img src="/resource/images/rd_toppanel_3.gif" width="255" height="102" hspace="0" vspace="0" border="0"></td>
+	</tr>
+	<tr> 
+	    <td width="755" height="2" valign="top" colspan="2"><img src="/resource/images/transparent.gif" width="755" height="2" vspace="0" hspace="0" border="0"></td>
+	</tr>
+	<tr>
+	    <td width="755" height="22" bgcolor="005499" align="center" colspan="2"> 
+    	<p>
+	    <a href="../resource/rdabout.cfm" class="headerLink">About The Directory</a><img src="/resource/images/transparent.gif" width="40" height="2" hspace="0" vspace="0" border="0">
+	    <a href="../resource/rduse.cfm" class="headerLink">How To Use The Directory</a><img src="/resource/images/transparent.gif" width="40" height="2" hspace="0" vspace="0" border="0">
+	    <a href="../resource/index.cfm" class="headerLink">Resource Finder</a><img src="/resource/images/transparent.gif" vspace="0" hspace="0" width="40" height="2" border="0">
+	    <a href="../resource/rdsponsor.cfm" class="headerLink">Sponsors</a><img src="/resource/images/transparent.gif" vspace="0" hspace="0" width="40" height="2" border="0">
+		<a href="../resource/rdcontact.cfm" class="headerLink">Feedback</a>
+	    </p></td>
+	</tr>
+  
+	<tr>
+		<td width="755" height="2" valign="top" colspan="2"><img src="/resource/images/transparent.gif" width="755" hspace="0" vspace="0" height="2" border="0"></td>
+	</tr>
+<map name="Map1"> 
+  <area shape="rect" coords="9,8,175,94" href="http://www.edenir.org" target="new">
+</map>
+
+
+
+
+	<tr><td width="160" valign="top">
+	
+	
+	<table width="160" height="282" border="0" cellspacing="0" cellpadding="0" rules="none">
+	  	<tr>
+		    <td width="160" height="6" colspan="3" valign="top" background="/resource/images/rdnavi_blueback.gif" align="left"><img src="/resource/images/rdnavi_blueback.gif" width="9" height="6" hspace="0" vspace="0" border="0"><img src="/resource/images/rdnavi_back1.gif" width="129" height="6" vspace="0" hspace="0" border="0"><img src="/resource/images/rdnavi_topcurve.gif" width="22" height="6" vspace="0" hspace="0" border="0"></td>
+	 	</tr>
+		
+		<tr>
+		    <td width="9" height="260" valign="top" background="/resource/images/rdnavi_blueback.gif" align="left"><img src="/resource/images/rdnavi_blueback.gif" width="9" height="260" hspace="0" vspace="0" border="0"></td>
+			<td width="129" height="260" valign="top" background="/resource/images/rdnavi_back1.gif" align="left"> 
+			<p><img src="/resource/images/transparent.gif" width="129" height="10" vspace="0" hspace="0" border="0">
+			<b><font size="1" face="Geneva, Arial, Helvetica, san-serif"><a href="http://www.irissoft.com/cccc/" target="_blank">Contra Costa<br>County Services</a></font></b></p>
+			<p><b><font face="Geneva, Arial, Helvetica, san-serif" size="1" color="#336699"><a href="http://www.cairs.org" target="_blank">CAIRS</a></font></b></p>
+			<p><b><font face="Geneva, Arial, Helvetica, san-serif" size="1" color="#336699"><a href="http://www.airs.org" target="_blank">AIRS</a></font></b></p>
+			<p><b><font face="Geneva, Arial, Helvetica, san-serif" size="1" color="#336699"><a href="http://www.nursinghomeguide.org" target="_blank">California Nursing Home Guide</a></font></b></p>
+			<p><b><font face="Geneva, Arial, Helvetica, san-serif" size="1" color="#336699"><a href="/resource/veteranServices.cfm">Veteran's Resources</a></font></b></p>
+			
+			
+		
+			<table width="125" border="1" cellspacing="0" cellpadding="4" bordercolor="336699">
+		        <tr> 
+					<td valign="top"> 
+			      	<p><b><font color="#336699">In order to use the Hotlist and Notes components, you must login to your account.</font></b></p>
+			       	
+					<p align="right">
+					
+						<a href="../myaccount/login.cfm?dest=http%3A%2F%2Fwww%2Ealamedaco%2Einfo%3A80%2Fresource%2Findex%2Ecfm%3F"><img src="/resource/images/loginbutton.gif" alt="Login Here" width="61" height="20" name="button7" border=0></a><br>
+					
+					<img src="/resource/images/transparent.gif" width="100" height="2" border="0" hspace="0" vspace="0"><br><a href="../resource/myresource.cfm"><img src="/resource/images/hotlist_button.gif" vspace="0" width="94" height="19" border=0 hspace="0"></a></p>
+					
+					
+					<p>&nbsp;</p>
+					</td>
+			 	</tr>
+			</table>
+		
+			</td>
+		
+			<td width="22" height="260" background="/resource/images/rdnavi_rsideblue.gif"><img src="/resource/images/transparent.gif" width="22" height="260" border="0" hspace="0" vspace="0"></td>
+		
+		</tr>
+		
+		<tr>
+	  	<td width="138" colspan="2" height="16" valign="top" background="/resource/images/rdnavi_blueback.gif"><img src="/resource/images/transparent.gif" width="9" height="16" border="0" hspace="0" vspace="0"><img src="/resource/images/transparent.gif" width="129" height="16" border="0" hspace="0" vspace="0"></td>
+		<td background="/resource/images/rdnavi_rsideblue.gif" valign="top"><img src="/resource/images/rdnavi_bottomcurve.gif" width="22" height="16" hspace="0" vspace="0" border="0"></td>
+		</tr>
+		
+	</table>
+
+	</td>
+
+	<td valign="top">
+
+	<table width=580 border="0" cellspacing="0" cellpadding="18">
+	<tr><td>
+
+
+
+<table width=540>
+
+<tr><td><p class="headtitle">Sandbags/Water Diversion Systems</p></td></tr>
+<tr><td><p class="">Programs that provide burlap bags and supplies of sand or other temporary mechanisms for altering the course of water when flooding is expected.</p><br></td></tr>
+<form action="tax_listall.cfm?sw=23277" method="POST">
+<tr><td>Narrow Results by City: 
+		<input type="hidden" name="isCity" value="1">
+		<select name="City">
+			<option value="a.city">-- All Cities -- 
+					
+			<option value="'Alameda'">Alameda 			
+			<option value="'Albany'">Albany 			
+			<option value="'Berkeley'">Berkeley 			
+			<option value="'Dublin'">Dublin 			
+			<option value="'Fremont'">Fremont 			
+			<option value="'Hayward'">Hayward 			
+			<option value="'Livermore'">Livermore 			
+			<option value="'Newark'">Newark 			
+			<option value="'Oakland'">Oakland 			
+			<option value="'Pleasanton'">Pleasanton 			
+			<option value="'San Leandro'">San Leandro 
+		</select> 
+		<input type="submit" value=" Go ">
+		</td></tr>
+</form>
+<tr><td><br></td></tr>
+
+<form action="tax_listall.cfm?sw=23277" method="POST">
+<tr><td>Narrow Results by Language: <br>
+		<input type="hidden" name="isLanguage" value="1">
+    <input type="image" name="None" src="images/all.gif" alt="All Languages" align="bottom">
+
+    <input type="image" name="Mandarin" src="images/mandarin.gif" alt="Chinese (Mandarin)" align="bottom"> <input type="image" name="Vietnamese" src="images/Vietnamese.gif" alt="Vietnamese" align="bottom">               
+
+		</td></tr>
+    
+</form>
+
+<tr><td><br></td></tr>
+
+</table>
+
+
+
+<strong>Results 1 - 12 of 12</strong>
+
+
+<br><br>
+
+
+
+<table width="540">
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG004986_2_1_0">Alameda County Public Works Agency  |  Public Works- Dublin Location  |  </a><br>
+	Alameda County Public Works Agency, located on Gleason Drive, is responsible for maintaining roads and other infrastructure throughout Alameda County. The Agency is also responsible for responding to the public in the aftermath of general emergencies, like storms and earthquakes.Sandbags provided f.....
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG003808_2_1_0">City of Alameda Public Works Division  |  Maintenance Services Division  |  </a><br>
+	Sandbags provided for Alameda City residents only<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG003816_2_1_0">City of Albany Maintenance Center  |  Public Works Department  |  Emergency Services</a><br>
+	Serves Albany residents who have a sewer or maintenance emergency that requires urgent attention, such as overflowing sewer mains, storm drain water flooding, or fallen trees and branches<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG003526_2_1_0">City of Berkeley  |  Public Works  |  </a><br>
+	Public Works and the community are working together to enhance Berkeley's appearance, protect the environment, and encourage business and property owner compliance with safety regulations<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG003814_2_1_0">City of Dublin  |  Public Works Department  |  Maintenance</a><br>
+	Maintenance includes: landscaping, signs and pavement marking, street sweeping; tree, traffic signals and street lighting<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG004333_2_1_0">City of Hayward  |  Maintenance Services Department  |  </a><br>
+	Call to get sandbag information for residents of Hayward<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG004987_2_1_0">City of Livermore Public Works  |  Maintenance Division  |  </a><br>
+	The Maintenance Division is responsible for street maintenance, facilities maintenance, traffic signals, street lighting, traffic signs and markings, park trees, street sweeping, and fleet services. Other maintenance activities performed by this section include roadside culvert cleaning, leaf remova.....
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG004988_2_1_0">City of Newark Public Works  |  Maintenance Division  |  </a><br>
+	The mission of the Public Works Department is to provide and maintain the most desirable environment for the community by ensuring that all City property is maintained to the highest standards possible, all buildings within our community are safe, sound, and of high quality, and that all City facili.....
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG003511_2_1_0">City of Oakland Public Works Agency  |  Public Works  |  </a><br>
+	Provides for the management and maintenance of the City's infrastructure, including streets, sidewalks and pathways; parks; creeks; sewers and storm drains; buildings and structures; vehicles and equipment; street lights and traffic signals<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG003528_2_1_0">City of San Leandro  |  Public Works  |  </a><br>
+	Provides for the management and maintenance of the City's infrastructure, including street maintenance, environmental services, garbage and recycling services, and manages the San Leandro shoreline recreation area and waste water treatment plant.<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG003524_2_1_0">Fremont City Maintenance Services  |  Maintenance Services (Public Works)  |  </a><br>
+	Maintenance Services Division is dedicated to preserving the City's infrastructure and assets. The Maintenance Services Division is comprised of Building Maintenance, Street Maintenance, Fleet Maintenance, and Urban Forestry sections<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG004989_2_1_0">Pleasanton Operations Services Center  |  Sandbags  |  </a><br>
+	Sandbags are prefilled and available 24/7 in the front parking lot.  Plesasanton residents only, no contractors. For addidtional information contact 925-931-5500.<br>
+	
+	<br></td>
+</tr>
+
+</table>
+
+
+
+
+
+
+
+
+</div>
+
+
+
+</td></tr>
+</table>
+
+</td></tr>
+</table>:ET:response_headersIC:Faraday::Utils::Headers{I"connection;
+TI"
+close;
+TI"	date;
+TI""Thu, 27 Feb 2014 06:45:42 GMT;
+TI"server;
+TI"Microsoft-IIS/6.0;
+TI"x-powered-by;
+TI"ASP.NET;
+TI"set-cookie;
+TI"êCFID=6531216;expires=Sat, 20-Feb-2044 06:45:42 GMT;path=/, CFTOKEN=75836696;expires=Sat, 20-Feb-2044 06:45:42 GMT;path=/, COUNTYID=2;path=/, SIZEID=1;path=/, ACTIVESTILL=1;path=/, BIGipServerNOC_HTTP_POOL=1382328512.20480.0000; path=/;
+TI"content-type;
+TI"text/html; charset=UTF-8;
+T:@names{I"connection;
+T@
+I"	date;
+T@I"server;
+T@I"x-powered-by;
+T@I"set-cookie;
+T@I"content-type;
+T@:@created_atf1393483569.556979:@expires_inf8.64e4

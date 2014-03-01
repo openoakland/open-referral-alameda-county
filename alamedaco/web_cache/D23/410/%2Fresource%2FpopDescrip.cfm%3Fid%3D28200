@@ -1,0 +1,50 @@
+o: ActiveSupport::Cache::Entry:@valueU:Faraday::Response{:statusiÈ:	bodyI"ý<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+
+	<title>Inpatient Mental Health Facilities</title>
+	
+<link rel="stylesheet" type="text/css" href="/style/style1.css">
+</head>
+
+<body>
+
+
+
+
+
+<table width="100%" border=0 height="100%">
+<tr>
+<td valign=top>
+<font size="+1"><strong>Inpatient Mental Health Facilities</strong></font><br>
+Hospital-based programs that provide diagnostic and treatment services for individuals who have acute psychiatric disorders, who require hospitalization on a voluntary or involuntary basis for maximum benefit, and who might be a threat to themselves, to their families or to others if left in the community or placed in a less restrictive treatment setting. The objective of inpatient mental health programs is to stabilize and then return the individual to the community for ongoing treatment as quickly as possible, and to facilitate the transition by preparing the individual's family to cope with the limitations imposed by the illness and by arranging for other supportive services as required. Included are psychiatric hospitals, health care hospitals that have psychiatric units and state hospitals for people who are mentally disordered.
+</td>
+</tr>
+</table>
+
+
+
+</body>
+</html>
+:ET:response_headersIC:Faraday::Utils::Headers{I"connection;
+TI"
+close;
+TI"	date;
+TI""Tue, 25 Feb 2014 21:24:55 GMT;
+TI"server;
+TI"Microsoft-IIS/6.0;
+TI"x-powered-by;
+TI"ASP.NET;
+TI"set-cookie;
+TI"êCFID=6491611;expires=Thu, 18-Feb-2044 21:24:55 GMT;path=/, CFTOKEN=91486349;expires=Thu, 18-Feb-2044 21:24:55 GMT;path=/, COUNTYID=2;path=/, SIZEID=1;path=/, ACTIVESTILL=1;path=/, BIGipServerNOC_HTTP_POOL=1382328512.20480.0000; path=/;
+TI"content-type;
+TI"text/html; charset=UTF-8;
+T:@names{I"connection;
+T@
+I"	date;
+T@I"server;
+T@I"x-powered-by;
+T@I"set-cookie;
+T@I"content-type;
+T@:@created_atf1393363520.134183:@expires_inf8.64e4

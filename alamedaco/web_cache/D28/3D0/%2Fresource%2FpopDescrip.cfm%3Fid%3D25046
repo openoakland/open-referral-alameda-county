@@ -1,0 +1,50 @@
+o: ActiveSupport::Cache::Entry:@valueU:Faraday::Response{:statusi»:	bodyI"P<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+
+	<title>Juvenile Delinquents</title>
+	
+<link rel="stylesheet" type="text/css" href="/style/style1.css">
+</head>
+
+<body>
+
+
+
+
+
+<table width="100%" border=0 height="100%">
+<tr>
+<td valign=top>
+<font size="+1"><strong>Juvenile Delinquents</strong></font><br>
+Individuals younger than age 18 who have violated federal or state laws or municipal or local ordinances; who, without just cause, have run away from home; who are beyond the control of parents, guardians or other custodians; who have engaged in indecent or immoral conduct; who have been habitually truant or, while in school, continually and overtly defiant of school rules and regulations; or who have violated any lawful order of the court.
+</td>
+</tr>
+</table>
+
+
+
+</body>
+</html>
+:ET:response_headersIC:Faraday::Utils::Headers{I"connection;
+TI"
+close;
+TI"	date;
+TI""Tue, 25 Feb 2014 21:25:04 GMT;
+TI"server;
+TI"Microsoft-IIS/6.0;
+TI"x-powered-by;
+TI"ASP.NET;
+TI"set-cookie;
+TI"ÍCFID=6491679;expires=Thu, 18-Feb-2044 21:25:04 GMT;path=/, CFTOKEN=80540991;expires=Thu, 18-Feb-2044 21:25:04 GMT;path=/, COUNTYID=2;path=/, SIZEID=1;path=/, ACTIVESTILL=1;path=/, BIGipServerNOC_HTTP_POOL=1382328512.20480.0000; path=/;
+TI"content-type;
+TI"text/html; charset=UTF-8;
+T:@names{I"connection;
+T@
+I"	date;
+T@I"server;
+T@I"x-powered-by;
+T@I"set-cookie;
+T@I"content-type;
+T@:@created_atf1393363529.4059362:@expires_inf8.64e4

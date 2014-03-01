@@ -1,0 +1,457 @@
+o: ActiveSupport::Cache::Entry:@valueU:Faraday::Response{:statusi»:	bodyI"D=
+<html>
+<head>
+	<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+	<META HTTP-EQUIV="Cache-control" CONTENT="no-cache">
+	<META HTTP-EQUIV="Expires" CONTENT="Fri, 01 Sep 2000 00:00:00 GMT">	
+	<title>Resource Finder</title>
+
+</head>
+<body leftmargin="0" topmargin="0">	
+
+
+
+<style>
+<!--
+p
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 12pt;
+}
+
+h1
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 14pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 16pt;
+}
+h2
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 8pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+a
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 8pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+a:active
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 8pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+a:visited
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+
+a.headerLink:link
+{
+    COLOR: #FFFFFF;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+
+a.headerLink:active
+{
+    COLOR: #FFFFFF;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+
+a.headerLink:visited
+{
+    COLOR: #FFFFFF;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+
+span
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+span.bold
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 11pt;
+}
+span.headtitle
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 11pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 13pt;
+}
+span.header
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 14pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 16pt;
+}
+strong
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 11pt;
+}
+label
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+td
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+textarea
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+select
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+-->	
+}
+-->
+</style>
+
+<script language="JavaScript">
+
+</script>
+
+
+<table width="755" height="128" border="0" cellspacing="0" cellpadding="0">
+	
+	<tr>
+    	<td width="755" height="102" valign="top" colspan="2"><img src="/resource/images/rd_toppanel_1.gif" usemap="#Map1" width="250" height="102" hspace="0" vspace="0" border="0"><img src="/resource/images/rd_toppanel_2.gif" width="250" height="102" vspace="0" hspace="0" border="0"><img src="/resource/images/rd_toppanel_3.gif" width="255" height="102" hspace="0" vspace="0" border="0"></td>
+	</tr>
+	<tr> 
+	    <td width="755" height="2" valign="top" colspan="2"><img src="/resource/images/transparent.gif" width="755" height="2" vspace="0" hspace="0" border="0"></td>
+	</tr>
+	<tr>
+	    <td width="755" height="22" bgcolor="005499" align="center" colspan="2"> 
+    	<p>
+	    <a href="../resource/rdabout.cfm" class="headerLink">About The Directory</a><img src="/resource/images/transparent.gif" width="40" height="2" hspace="0" vspace="0" border="0">
+	    <a href="../resource/rduse.cfm" class="headerLink">How To Use The Directory</a><img src="/resource/images/transparent.gif" width="40" height="2" hspace="0" vspace="0" border="0">
+	    <a href="../resource/index.cfm" class="headerLink">Resource Finder</a><img src="/resource/images/transparent.gif" vspace="0" hspace="0" width="40" height="2" border="0">
+	    <a href="../resource/rdsponsor.cfm" class="headerLink">Sponsors</a><img src="/resource/images/transparent.gif" vspace="0" hspace="0" width="40" height="2" border="0">
+		<a href="../resource/rdcontact.cfm" class="headerLink">Feedback</a>
+	    </p></td>
+	</tr>
+  
+	<tr>
+		<td width="755" height="2" valign="top" colspan="2"><img src="/resource/images/transparent.gif" width="755" hspace="0" vspace="0" height="2" border="0"></td>
+	</tr>
+<map name="Map1"> 
+  <area shape="rect" coords="9,8,175,94" href="http://www.edenir.org" target="new">
+</map>
+
+
+
+
+	<tr><td width="160" valign="top">
+	
+	
+	<table width="160" height="282" border="0" cellspacing="0" cellpadding="0" rules="none">
+	  	<tr>
+		    <td width="160" height="6" colspan="3" valign="top" background="/resource/images/rdnavi_blueback.gif" align="left"><img src="/resource/images/rdnavi_blueback.gif" width="9" height="6" hspace="0" vspace="0" border="0"><img src="/resource/images/rdnavi_back1.gif" width="129" height="6" vspace="0" hspace="0" border="0"><img src="/resource/images/rdnavi_topcurve.gif" width="22" height="6" vspace="0" hspace="0" border="0"></td>
+	 	</tr>
+		
+		<tr>
+		    <td width="9" height="260" valign="top" background="/resource/images/rdnavi_blueback.gif" align="left"><img src="/resource/images/rdnavi_blueback.gif" width="9" height="260" hspace="0" vspace="0" border="0"></td>
+			<td width="129" height="260" valign="top" background="/resource/images/rdnavi_back1.gif" align="left"> 
+			<p><img src="/resource/images/transparent.gif" width="129" height="10" vspace="0" hspace="0" border="0">
+			<b><font size="1" face="Geneva, Arial, Helvetica, san-serif"><a href="http://www.irissoft.com/cccc/" target="_blank">Contra Costa<br>County Services</a></font></b></p>
+			<p><b><font face="Geneva, Arial, Helvetica, san-serif" size="1" color="#336699"><a href="http://www.cairs.org" target="_blank">CAIRS</a></font></b></p>
+			<p><b><font face="Geneva, Arial, Helvetica, san-serif" size="1" color="#336699"><a href="http://www.airs.org" target="_blank">AIRS</a></font></b></p>
+			<p><b><font face="Geneva, Arial, Helvetica, san-serif" size="1" color="#336699"><a href="http://www.nursinghomeguide.org" target="_blank">California Nursing Home Guide</a></font></b></p>
+			<p><b><font face="Geneva, Arial, Helvetica, san-serif" size="1" color="#336699"><a href="/resource/veteranServices.cfm">Veteran's Resources</a></font></b></p>
+			
+			
+		
+			<table width="125" border="1" cellspacing="0" cellpadding="4" bordercolor="336699">
+		        <tr> 
+					<td valign="top"> 
+			      	<p><b><font color="#336699">In order to use the Hotlist and Notes components, you must login to your account.</font></b></p>
+			       	
+					<p align="right">
+					
+						<a href="../myaccount/login.cfm?dest=http%3A%2F%2Fwww%2Ealamedaco%2Einfo%3A80%2Fresource%2Findex%2Ecfm%3F"><img src="/resource/images/loginbutton.gif" alt="Login Here" width="61" height="20" name="button7" border=0></a><br>
+					
+					<img src="/resource/images/transparent.gif" width="100" height="2" border="0" hspace="0" vspace="0"><br><a href="../resource/myresource.cfm"><img src="/resource/images/hotlist_button.gif" vspace="0" width="94" height="19" border=0 hspace="0"></a></p>
+					
+					
+					<p>&nbsp;</p>
+					</td>
+			 	</tr>
+			</table>
+		
+			</td>
+		
+			<td width="22" height="260" background="/resource/images/rdnavi_rsideblue.gif"><img src="/resource/images/transparent.gif" width="22" height="260" border="0" hspace="0" vspace="0"></td>
+		
+		</tr>
+		
+		<tr>
+	  	<td width="138" colspan="2" height="16" valign="top" background="/resource/images/rdnavi_blueback.gif"><img src="/resource/images/transparent.gif" width="9" height="16" border="0" hspace="0" vspace="0"><img src="/resource/images/transparent.gif" width="129" height="16" border="0" hspace="0" vspace="0"></td>
+		<td background="/resource/images/rdnavi_rsideblue.gif" valign="top"><img src="/resource/images/rdnavi_bottomcurve.gif" width="22" height="16" hspace="0" vspace="0" border="0"></td>
+		</tr>
+		
+	</table>
+
+	</td>
+
+	<td valign="top">
+
+	<table width=580 border="0" cellspacing="0" cellpadding="18">
+	<tr><td>
+
+
+<script language = "JavaScript">
+<!--
+if(document.images) {
+
+button51a = new Image()
+button51a.src = "images/roll/aa.gif"
+button51b = new Image()
+button51b.src = "images/roll/a.gif"
+
+button52a = new Image()
+button52a.src = "images/roll/b.gif"
+button52b = new Image()
+button52b.src = "images/roll/b.gif"
+
+button53a = new Image()
+button53a.src = "images/roll/cc.gif"
+button53b = new Image()
+button53b.src = "images/roll/c.gif"
+
+}
+// -->
+</script>
+
+
+<table width=540 cellpadding=0 cellspacing=0 border=0>
+
+
+
+<script language = "JavaScript">
+<!--
+if(document.images) {
+
+
+
+	button75a = new Image()
+	button75a.src = "images/add.gif"
+	button75b = new Image()
+	button75b.src = "images/add_down.gif"
+
+
+
+}
+// -->
+</script>
+
+<tr>
+<td valign="top"><a href="agency.cfm?pid=PG004008_2_1_0&page=1" title="link to Agency Overview section" onMouseOver="button51.src=button51b.src" onMouseOut="button51.src=button51a.src"><img src="images/roll/aa.gif" width="100" height="28" border="0" name="button51"></a></td>
+<td width="95" valign="top"><a href="agencydetail.cfm?pid=PG004008_2_1_0&page=2" title="link to Detailed Agency Info section" onMouseOver="button52.src=button52b.src" onMouseOut="button52.src=button52a.src"><img src="images/roll/b.gif" width="95" height="28" border="0" name="button52"></td>
+<td width="95" valign="top"><a href="hotnotes.cfm?pid=PG004008_2_1_0&page=3" title="link to My Notes section" onMouseOver="button53.src=button53b.src" onMouseOut="button53.src=button53a.src"><img src="images/roll/cc.gif" width="95" height="28" border="0" name="button53"></td>
+<td valign="top" align=right><a href="proc/addhotlist.cfm?pid=PG004008_2_1_0&goto=http%3A%2F%2Fwww%2Ealamedaco%2Einfo%3A80%2Fresource%2Fagencydetail%2Ecfm%3Fpid%3DPG004008%5F2%5F1%5F0%26page%3D2" title="add resource to Hot List" onMouseOver="button75.src=button75b.src" onMouseOut="button75.src=button75a.src"><img src="images/add.gif" width="250" height="28" border="0" name="button75" alt="add to hotlist"></a></td>
+</tr></table>
+<table width=540 cellpadding=0 cellspacing=0 border=0>
+<tr>
+<td background="images/left.gif" valign="top" width="15"><img src="images/left.gif" width="15" height="1" border="0"></td>
+<td width="511" bgcolor="FFFFFF" width="511"><img src="../images/space.gif" width="511" height=1 border=0></td>
+<td valign="top" width="14" background="images/right.gif"><img src="images/right_top.gif" width="14" height="9" border="0"></td>
+</tr>
+
+<tr>
+<td background="images/left.gif" valign="top" width="15"><img src="images/left.gif" width="15" height="600" border="0"></td>
+<td valign="top" bgcolor="FFFFFF">
+
+<span class="headtitle">City of Pleasanton  |  Building and Safety Services Division  |  Building Inspection Services</span>
+
+<hr noshade>
+<br>
+
+		<br>
+		<span class="bold">Full Description</span><br><span class="bodytext">The Building and Safety Services Division safeguards the citizens of the City of Pleasanton against faulty or inappropriate building, plumbing, mechanical and electrical construction practices. Provides guidance in compliance with state and local construction laws as they relate to seismic, wind and fire life safety in both plan review and field inspection.Inspection requests are taken in person at the Building and Safety Division counter, or by phone during business hours. Inspection requests received by 4pm may be for the following work day. Individuals who desire an approximate time of their scheduled inspection may call between 7:30am and 8am the day of the inspection to speak directly with the assigned inspector. Inspection times can not be given at the time of the inspection request.</span><br><br>
+		<span class="bold">Target Group</span><br><span class="bodytext"></span><br><br>
+		<span class="bold">Eligibility Requirements</span><br><span class="bodytext">Those in need of building inspection services in the city of Pleasanton</span><br><br>
+
+		<table>
+		<tr><td><span class="bold">Languages</span></td></tr>
+		
+		</table><br>
+
+		<span class="bold">Application Process</span><br><span class="bodytext">Walk in, fax or apply by phone</span><br><br>
+		<span class="bold">Fees</span><br><span class="bodytext">Call for information</span><br><br>
+		<span class="bold">Accepted Payment</span><br><span class="bodytext">Call for information</span><br><br>
+
+		
+
+		<table>
+		<tr><td><span class="bold">Phone</span><br></td></tr>
+
+		<tr><td>
+			
+				<table border=0>
+				<tr><td>
+					<br>
+					925-931-5300<br>
+					   Hours:Monday-Friday, 8-5<br></td></tr>
+				</table>	
+			
+			</td></tr>
+		
+	<tr><td><span class="bold">Website</span></td></tr>
+		<tr><td>	
+		<a href="http://www.ci.pleasanton.ca.us" target="new">www.ci.pleasanton.ca.us</a><br><br>
+		</td></tr>		
+	
+		<tr><td>	
+		<a href="http://www.ci.pleasanton.ca.us/business/building/" target="new">www.ci.pleasanton.ca.us/business/building/</a><br><br>
+		</td></tr>		
+	
+		</table>
+
+<a name="addresses">
+
+		<table>
+		<tr><td><span class="bold">Address</span></td></tr> 
+
+		<tr><td>
+		    <Br>
+			<br>
+			200 Old Bernal Avenue<br>
+			Pleasanton, CA 94566
+			<br>
+			<a href="javascript:location='/resource/agencydetail.cfm?pid=PG004008_2_1_0&page=2';window.open('http://cf.networkofcare.org/trilogy/map/showmap1.cfm?streetaddress=200 Old Bernal Avenue+&city=Pleasanton&state=CA&zip=94566','map','HEIGHT=500,WIDTH=700,scrollbars=yes')"><img src="/images/map_it.gif" border=0></a>
+			</td></tr>
+
+				<tr>
+				 <td>
+                  <br>
+            		
+            			<span class="bold">Transportation</span><br>
+            			<span class="bodytext">
+            			WHEELS line 8 stops within 1 block
+            			</span>
+						<br><a target="_blank" href="http://www.511.org">Public Transit</a>
+            		
+
+            	  <br><br>
+
+		            
+            			<span class="bold">Accessibility</span><br>
+            			<span class="bodytext">
+            			Wheelchair accessible
+            			</span>
+            		
+				 </td>
+				</tr>
+
+				<tr><td>
+                   <!-- a href="javascript:location='/resource/agencydetail.cfm?pid=PG004008_2_1_0&page=2';window.open('/scripts/mqinterconnect.exe?streetaddress=200 Old Bernal Avenue+&city=Pleasanton&state=CA&zip=94566','map','HEIGHT=500,WIDTH=700,scrollbars=yes')"><img src="/images/map_it.gif" border=0></a -->
+                   <hr size=1>
+				</td></tr>
+
+	
+		</table>
+
+		<br>
+
+
+<br><hr width="60" align="left">
+<a href="javascript:history.back()" title="link to previous screen">Back</a>
+
+</td>
+<td background="images/right.gif" valign="top" width="14"><img src="images/right.gif" width="14" height="600" border="0"></td>
+</tr>
+<tr>
+<td colspan="3" valign="top"><img src="images/bottom.gif" width="540" height="14" border=0></td>
+</tr>
+
+<tr>
+<td width="15">&nbsp;</td>
+<td width="511">&nbsp;</td>
+<td width="14">&nbsp;</td>
+</tr>
+</table>
+</td></tr>
+</table>
+
+</td></tr>
+</table> :ET:response_headersIC:Faraday::Utils::Headers{I"connection;
+TI"
+close;
+TI"	date;
+TI""Thu, 27 Feb 2014 06:43:16 GMT;
+TI"server;
+TI"Microsoft-IIS/6.0;
+TI"x-powered-by;
+TI"ASP.NET;
+TI"set-cookie;
+TI"ÍCFID=6531137;expires=Sat, 20-Feb-2044 06:43:16 GMT;path=/, CFTOKEN=28396602;expires=Sat, 20-Feb-2044 06:43:16 GMT;path=/, COUNTYID=2;path=/, SIZEID=1;path=/, ACTIVESTILL=1;path=/, BIGipServerNOC_HTTP_POOL=1382328512.20480.0000; path=/;
+TI"content-type;
+TI"text/html; charset=UTF-8;
+T:@names{I"connection;
+T@
+I"	date;
+T@I"server;
+T@I"x-powered-by;
+T@I"set-cookie;
+T@I"content-type;
+T@:@created_atf1393483422.1300879:@expires_inf8.64e4

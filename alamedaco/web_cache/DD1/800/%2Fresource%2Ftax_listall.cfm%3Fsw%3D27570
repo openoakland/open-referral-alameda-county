@@ -1,0 +1,471 @@
+o: ActiveSupport::Cache::Entry:@valueU:Faraday::Response{:statusiÈ:	body"£?
+
+<html>
+<head>
+	<title>Resource Search Results</title>
+	
+</head>
+<body leftmargin="0" topmargin="0">
+	
+
+
+<style>
+<!--
+p
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 12pt;
+}
+
+h1
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 14pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 16pt;
+}
+h2
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 8pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+a
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 8pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+a:active
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 8pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+a:visited
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+
+a.headerLink:link
+{
+    COLOR: #FFFFFF;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+
+a.headerLink:active
+{
+    COLOR: #FFFFFF;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+
+a.headerLink:visited
+{
+    COLOR: #FFFFFF;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 12pt;
+}
+
+span
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+span.bold
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 11pt;
+}
+span.headtitle
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 11pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 13pt;
+}
+span.header
+{
+    COLOR: #336699;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 14pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 16pt;
+}
+strong
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: 11pt;
+}
+label
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+td
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+textarea
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+select
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 11pt;
+}
+-->	
+}
+-->
+</style>
+
+<script language="JavaScript">
+
+</script>
+
+
+<table width="755" height="128" border="0" cellspacing="0" cellpadding="0">
+	
+	<tr>
+    	<td width="755" height="102" valign="top" colspan="2"><img src="/resource/images/rd_toppanel_1.gif" usemap="#Map1" width="250" height="102" hspace="0" vspace="0" border="0"><img src="/resource/images/rd_toppanel_2.gif" width="250" height="102" vspace="0" hspace="0" border="0"><img src="/resource/images/rd_toppanel_3.gif" width="255" height="102" hspace="0" vspace="0" border="0"></td>
+	</tr>
+	<tr> 
+	    <td width="755" height="2" valign="top" colspan="2"><img src="/resource/images/transparent.gif" width="755" height="2" vspace="0" hspace="0" border="0"></td>
+	</tr>
+	<tr>
+	    <td width="755" height="22" bgcolor="005499" align="center" colspan="2"> 
+    	<p>
+	    <a href="../resource/rdabout.cfm" class="headerLink">About The Directory</a><img src="/resource/images/transparent.gif" width="40" height="2" hspace="0" vspace="0" border="0">
+	    <a href="../resource/rduse.cfm" class="headerLink">How To Use The Directory</a><img src="/resource/images/transparent.gif" width="40" height="2" hspace="0" vspace="0" border="0">
+	    <a href="../resource/index.cfm" class="headerLink">Resource Finder</a><img src="/resource/images/transparent.gif" vspace="0" hspace="0" width="40" height="2" border="0">
+	    <a href="../resource/rdsponsor.cfm" class="headerLink">Sponsors</a><img src="/resource/images/transparent.gif" vspace="0" hspace="0" width="40" height="2" border="0">
+		<a href="../resource/rdcontact.cfm" class="headerLink">Feedback</a>
+	    </p></td>
+	</tr>
+  
+	<tr>
+		<td width="755" height="2" valign="top" colspan="2"><img src="/resource/images/transparent.gif" width="755" hspace="0" vspace="0" height="2" border="0"></td>
+	</tr>
+<map name="Map1"> 
+  <area shape="rect" coords="9,8,175,94" href="http://www.edenir.org" target="new">
+</map>
+
+
+
+
+	<tr><td width="160" valign="top">
+	
+	
+	<table width="160" height="282" border="0" cellspacing="0" cellpadding="0" rules="none">
+	  	<tr>
+		    <td width="160" height="6" colspan="3" valign="top" background="/resource/images/rdnavi_blueback.gif" align="left"><img src="/resource/images/rdnavi_blueback.gif" width="9" height="6" hspace="0" vspace="0" border="0"><img src="/resource/images/rdnavi_back1.gif" width="129" height="6" vspace="0" hspace="0" border="0"><img src="/resource/images/rdnavi_topcurve.gif" width="22" height="6" vspace="0" hspace="0" border="0"></td>
+	 	</tr>
+		
+		<tr>
+		    <td width="9" height="260" valign="top" background="/resource/images/rdnavi_blueback.gif" align="left"><img src="/resource/images/rdnavi_blueback.gif" width="9" height="260" hspace="0" vspace="0" border="0"></td>
+			<td width="129" height="260" valign="top" background="/resource/images/rdnavi_back1.gif" align="left"> 
+			<p><img src="/resource/images/transparent.gif" width="129" height="10" vspace="0" hspace="0" border="0">
+			<b><font size="1" face="Geneva, Arial, Helvetica, san-serif"><a href="http://www.irissoft.com/cccc/" target="_blank">Contra Costa<br>County Services</a></font></b></p>
+			<p><b><font face="Geneva, Arial, Helvetica, san-serif" size="1" color="#336699"><a href="http://www.cairs.org" target="_blank">CAIRS</a></font></b></p>
+			<p><b><font face="Geneva, Arial, Helvetica, san-serif" size="1" color="#336699"><a href="http://www.airs.org" target="_blank">AIRS</a></font></b></p>
+			<p><b><font face="Geneva, Arial, Helvetica, san-serif" size="1" color="#336699"><a href="http://www.nursinghomeguide.org" target="_blank">California Nursing Home Guide</a></font></b></p>
+			<p><b><font face="Geneva, Arial, Helvetica, san-serif" size="1" color="#336699"><a href="/resource/veteranServices.cfm">Veteran's Resources</a></font></b></p>
+			
+			
+		
+			<table width="125" border="1" cellspacing="0" cellpadding="4" bordercolor="336699">
+		        <tr> 
+					<td valign="top"> 
+			      	<p><b><font color="#336699">In order to use the Hotlist and Notes components, you must login to your account.</font></b></p>
+			       	
+					<p align="right">
+					
+						<a href="../myaccount/login.cfm?dest=http%3A%2F%2Fwww%2Ealamedaco%2Einfo%3A80%2Fresource%2Findex%2Ecfm%3F"><img src="/resource/images/loginbutton.gif" alt="Login Here" width="61" height="20" name="button7" border=0></a><br>
+					
+					<img src="/resource/images/transparent.gif" width="100" height="2" border="0" hspace="0" vspace="0"><br><a href="../resource/myresource.cfm"><img src="/resource/images/hotlist_button.gif" vspace="0" width="94" height="19" border=0 hspace="0"></a></p>
+					
+					
+					<p>&nbsp;</p>
+					</td>
+			 	</tr>
+			</table>
+		
+			</td>
+		
+			<td width="22" height="260" background="/resource/images/rdnavi_rsideblue.gif"><img src="/resource/images/transparent.gif" width="22" height="260" border="0" hspace="0" vspace="0"></td>
+		
+		</tr>
+		
+		<tr>
+	  	<td width="138" colspan="2" height="16" valign="top" background="/resource/images/rdnavi_blueback.gif"><img src="/resource/images/transparent.gif" width="9" height="16" border="0" hspace="0" vspace="0"><img src="/resource/images/transparent.gif" width="129" height="16" border="0" hspace="0" vspace="0"></td>
+		<td background="/resource/images/rdnavi_rsideblue.gif" valign="top"><img src="/resource/images/rdnavi_bottomcurve.gif" width="22" height="16" hspace="0" vspace="0" border="0"></td>
+		</tr>
+		
+	</table>
+
+	</td>
+
+	<td valign="top">
+
+	<table width=580 border="0" cellspacing="0" cellpadding="18">
+	<tr><td>
+
+
+
+<table width=540>
+
+<tr><td><p class="headtitle">Money Management</p></td></tr>
+<tr><td><p class="">Programs that provide assistance for people who want to build personal wealth, obtain credit and use it responsibly, access their credit reports and correct erroneous information, pay their bills in an orderly way, reduce their debt burden and/or manage their financial resources more effectively. The objective of money management programs is to help individuals and families become more financially stable and achieve long-term economic independence.</p><br></td></tr>
+<form action="tax_listall.cfm?sw=27570" method="POST">
+<tr><td>Narrow Results by City: 
+		<input type="hidden" name="isCity" value="1">
+		<select name="City">
+			<option value="a.city">-- All Cities -- 
+					
+			<option value="'Atlanta'">Atlanta 			
+			<option value="'Berkeley'">Berkeley 			
+			<option value="'Emeryville'">Emeryville 			
+			<option value="'Fremont'">Fremont 			
+			<option value="'Hayward'">Hayward 			
+			<option value="'Livermore'">Livermore 			
+			<option value="'Minneapolis'">Minneapolis 			
+			<option value="'Oakland'">Oakland 			
+			<option value="'San Francisco'">San Francisco 			
+			<option value="'San Jose'">San Jose 
+		</select> 
+		<input type="submit" value=" Go ">
+		</td></tr>
+</form>
+<tr><td><br></td></tr>
+
+<form action="tax_listall.cfm?sw=27570" method="POST">
+<tr><td>Narrow Results by Language: <br>
+		<input type="hidden" name="isLanguage" value="1">
+    <input type="image" name="None" src="images/all.gif" alt="All Languages" align="bottom">
+
+    <input type="image" name="Mandarin" src="images/mandarin.gif" alt="Chinese (Mandarin)" align="bottom"> <input type="image" name="Cantonese" src="images/cantonese.gif" alt="Chinese (Cantonese)" align="bottom"> <input type="image" name="Vietnamese" src="images/Vietnamese.gif" alt="Vietnamese" align="bottom"> <input type="image" name="Spanish" src="images/Spanish.gif" alt="Spanish" align="bottom"> <input type="image" name="Cambodian" src="images/Cambodian.gif" alt="Cambodian" align="bottom">              
+
+		</td></tr>
+    
+</form>
+
+<tr><td><br></td></tr>
+
+</table>
+
+
+
+<strong>Results 1 - 15 of 33</strong>
+
+
+<br><br>
+
+
+
+<table width="540">
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG004640_2_1_0">Acorn Computer Learning Center  |  Computer Access and Services  |  </a><br>
+	Offers free resume writing classes, Internet research availability, Internet job search availability and online banking assistance<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG004347_2_1_0">Bank on Oakland (BOO)</a><br>
+	Bank on Oakland has partnered with local banks and credit unions to offer free or low-cost accounts. Even if you have never opened an account before, have had problems with an account in the past, or need a free or low-cost account, Bank on Oakland wants to help you open an account with a bank or cr.....
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG002288_2_1_0">Berkeley Food and Housing Project (BFHP)  |  Multi-Service Center (MSC)  |  </a><br>
+	MSC offers comprehensive services for homeless and low-income residents of Berkeley and Northern Alameda County. Walk in Monday-Friday at 10am<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG000759_2_1_0">Building Opportunities for Self-Sufficiency (BOSS)  |  Multi-Agency Service Center (MASC) - Drop-in Center  |  </a><br>
+	Comprehensive drop-in support services to chronically homeless individuals in Berkeley, with an emphasis on the mentally disabled and substance abusers. Enter through east gate of Veteran's Memorial Building<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG004334_2_1_0">CalHFA Mortgage Assistance Corporation  |  Keep Your Home California  |  </a><br>
+	The Keep Your Home California programs are focused on assisting low and moderate income families stay in their homes, when possible, and leveraging additional contributions from mortgage servicers<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG003414_2_1_0">California Courts Online Self-Help Center  |  Debt and Bankruptcy - Online Information  |  </a><br>
+	Website provides links to resources on debt, bankruptcy and rebuilding good credit<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG004820_2_1_0">City of Oakland, Community and Economic Development Agency  |  Housing and Community Development Division  |  Housing Assistance Center</a><br>
+	The City of Oaklandâ€™s new Housing Assistance Center offers a streamlined, one stop approach to housing services and resource referral for Oakland tenants, homeowners and small rental property owners and managers. The Center also offers private rooms for client consultation and makes new conference s.....
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG004739_2_1_0">Consumer Credit Counseling Foundation - CCCF  |  Consumer Credit Counseling  |  </a><br>
+	Provides low cost credit-related financial, housing counseling and free education to low-income and debt ridden-consumers<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG001992_2_1_0">East Bay Community Law Center  |  Health Unit - HIV Practice  |  </a><br>
+	Serves HIV-positive clients with legal matters including benefits advocacy, estate planning, family law issues, and debt relief. Serves legal needs of HIV-positive immigrants<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG001361_2_1_0">ECHO Housing  |  Eden Council for Hope & Opportunity, Inc.  |  HUD Mortgage Default</a><br>
+	Assists residents who are in danger of losing their homes due to foreclosure. Works with clients to arrange repayment plans<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG003639_2_1_0">Equifax</a><br>
+	Provides a free annual credit report<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG003638_2_1_0">Experian  |  Experian  |  </a><br>
+	Provides a free annual credit report<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG003845_2_1_0">ForeclosureHelp</a><br>
+	Provides information and referral services to assist families impacted by foreclosure and to help them navigate through the foreclosure process<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG003403_2_1_0">Healthy Oakland  |  Healthy Communities, Inc.  |  Family Resource Center</a><br>
+	Provides job, housing, social service and health care referrals and advocacy. Offers parenting and recovery program for new and expectant mothers<br>
+	
+	<br></td>
+</tr>
+
+<tr>
+<td valign="top"><li></td>
+<td><a href="agency.cfm?pid=PG001278_2_1_0">HERA (Housing and Economic Rights Advocates)  |  Foreclosure Prevention and Predatory Lending Counseling for Homeowners  |  </a><br>
+	Legal counseling on homeowner issues. Focuses on foreclosure prevention and predatory mortgage lending problems. Negotiates mortgage loan services and offers litigation<br>
+	
+	<br></td>
+</tr>
+
+</table>
+
+
+
+
+
+<br>
+<hr align="center" width="300">
+<div align="center">
+
+<strong>Result Page:</strong> 
+
+
+1 
+<a href="tax_listall.cfm?sw=27570&pg=2">2</a>
+
+<a href="tax_listall.cfm?sw=27570&pg=3">3</a>
+
+<a href="tax_listall.cfm?sw=27570&pg=2">></a></a>
+
+
+
+<hr align="center" width="300">
+
+
+
+
+
+</div>
+
+
+
+</td></tr>
+</table>
+
+</td></tr>
+</table>:response_headersIC:Faraday::Utils::Headers{I"connection:ETI"
+close;TI"	date;TI""Thu, 27 Feb 2014 04:23:36 GMT;TI"server;TI"Microsoft-IIS/6.0;TI"x-powered-by;TI"ASP.NET;TI"set-cookie;TI"êCFID=6147907;expires=Sat, 20-Feb-2044 04:23:36 GMT;path=/, CFTOKEN=21638605;expires=Sat, 20-Feb-2044 04:23:36 GMT;path=/, COUNTYID=2;path=/, SIZEID=1;path=/, ACTIVESTILL=1;path=/, BIGipServerNOC_HTTP_POOL=1365551296.20480.0000; path=/;TI"content-type;TI"text/html; charset=UTF-8;T:@names{I"connection;T@
+I"	date;T@I"server;T@I"x-powered-by;T@I"set-cookie;T@I"content-type;T@:@created_atf1393475043.959734:@expires_inf8.64e4

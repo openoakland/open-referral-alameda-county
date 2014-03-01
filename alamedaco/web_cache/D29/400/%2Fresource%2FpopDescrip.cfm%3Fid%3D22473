@@ -1,0 +1,50 @@
+o: ActiveSupport::Cache::Entry:@valueU:Faraday::Response{:statusi»:	bodyI"h<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+
+	<title>Education Volunteer Opportunities</title>
+	
+<link rel="stylesheet" type="text/css" href="/style/style1.css">
+</head>
+
+<body>
+
+
+
+
+
+<table width="100%" border=0 height="100%">
+<tr>
+<td valign=top>
+<font size="+1"><strong>Education Volunteer Opportunities</strong></font><br>
+Organizations that are actively seeking individuals with the requisite skills and experience who are willing to work with children and/or adults on a voluntary basis without remuneration to ensure that they develop the knowledge, skills, desirable qualities of behavior and character, wisdom and general competence that will enable them to fully participate in and enjoy the social, political, economic and intellectual life of the community.
+</td>
+</tr>
+</table>
+
+
+
+</body>
+</html>
+:ET:response_headersIC:Faraday::Utils::Headers{I"connection;
+TI"
+close;
+TI"	date;
+TI""Tue, 25 Feb 2014 21:24:54 GMT;
+TI"server;
+TI"Microsoft-IIS/6.0;
+TI"x-powered-by;
+TI"ASP.NET;
+TI"set-cookie;
+TI"ÍCFID=6491605;expires=Thu, 18-Feb-2044 21:24:54 GMT;path=/, CFTOKEN=75879656;expires=Thu, 18-Feb-2044 21:24:54 GMT;path=/, COUNTYID=2;path=/, SIZEID=1;path=/, ACTIVESTILL=1;path=/, BIGipServerNOC_HTTP_POOL=1382328512.20480.0000; path=/;
+TI"content-type;
+TI"text/html; charset=UTF-8;
+T:@names{I"connection;
+T@
+I"	date;
+T@I"server;
+T@I"x-powered-by;
+T@I"set-cookie;
+T@I"content-type;
+T@:@created_atf1393363519.257519:@expires_inf8.64e4

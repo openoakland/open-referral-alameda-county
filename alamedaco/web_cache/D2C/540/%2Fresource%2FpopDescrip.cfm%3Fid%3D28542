@@ -1,0 +1,50 @@
+o: ActiveSupport::Cache::Entry:@valueU:Faraday::Response{:statusiÈ:	bodyI"ð<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+
+	<title>Autism Therapy</title>
+	
+<link rel="stylesheet" type="text/css" href="/style/style1.css">
+</head>
+
+<body>
+
+
+
+
+
+<table width="100%" border=0 height="100%">
+<tr>
+<td valign=top>
+<font size="+1"><strong>Autism Therapy</strong></font><br>
+Programs that offer any of a variety of therapeutic interventions, which may be used singly or in combination, to address the range of social, language, sensory and behavioral difficulties experienced by children and adults with autism and related disorders. Because of the spectrum nature of autism and the many behavior combinations that can occur, treatment approaches must be tailored to meet the individual needs of each person. Included are behavioral and communication development approaches such as Applied Behavioral Analysis, TEACCH (Treatment and Education of Autistic and Related Communication Handicapped Children), PECS (Picture Exchange Communication Systems), Floor Time, Pivotal Response Treatment (PRT), Social Stories and sensory integration; biomedical and dietary treatments including psychiatric medications, vitamins and minerals (such as Vitamin B6, magnesium and essential fatty acids), treatment using the hormone secretin and special diets; and various complementary therapies such as music, art or equestrian therapy which may be used on an individual basis or integrated into an educational program.
+</td>
+</tr>
+</table>
+
+
+
+</body>
+</html>
+:ET:response_headersIC:Faraday::Utils::Headers{I"connection;
+TI"
+close;
+TI"	date;
+TI""Tue, 25 Feb 2014 21:24:48 GMT;
+TI"server;
+TI"Microsoft-IIS/6.0;
+TI"x-powered-by;
+TI"ASP.NET;
+TI"set-cookie;
+TI"êCFID=6491556;expires=Thu, 18-Feb-2044 21:24:48 GMT;path=/, CFTOKEN=30015068;expires=Thu, 18-Feb-2044 21:24:48 GMT;path=/, COUNTYID=2;path=/, SIZEID=1;path=/, ACTIVESTILL=1;path=/, BIGipServerNOC_HTTP_POOL=1382328512.20480.0000; path=/;
+TI"content-type;
+TI"text/html; charset=UTF-8;
+T:@names{I"connection;
+T@
+I"	date;
+T@I"server;
+T@I"x-powered-by;
+T@I"set-cookie;
+T@I"content-type;
+T@:@created_atf1393363513.320778:@expires_inf8.64e4

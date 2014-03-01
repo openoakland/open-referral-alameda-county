@@ -1,0 +1,6 @@
+source "https://rubygems.org"
+
+gem 'pupa', '~> 0.0.13', git: 'https://github.com/whatasunnyday/pupa-ruby/', branch: 'update-moped'
+gem 'nokogiri', '~> 1.6.1'
+gem 'mongoid', '4.0.0.beta1', git: 'https://github.com/mongoid/mongoid'
+gem 'debugger', '1.6.5'

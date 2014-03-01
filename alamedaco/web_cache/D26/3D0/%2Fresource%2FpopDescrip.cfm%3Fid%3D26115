@@ -1,0 +1,50 @@
+o: ActiveSupport::Cache::Entry:@valueU:Faraday::Response{:statusi»:	bodyI"r<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+
+	<title>Service Occupations</title>
+	
+<link rel="stylesheet" type="text/css" href="/style/style1.css">
+</head>
+
+<body>
+
+
+
+
+
+<table width="100%" border=0 height="100%">
+<tr>
+<td valign=top>
+<font size="+1"><strong>Service Occupations</strong></font><br>
+Individuals whose occupations are concerned with preparing and serving food and drinks in commercial, institutional or other establishments; providing lodging and related services; providing grooming, cosmetic and other personal and health care services for children and adults; attending to the comfort or requests of patrons of amusement and recreation facilities; cleaning the interiors of buildings; maintaining grounds; or providing other services such as animal care and training, funeral and mortuary services, travel industry services or care for apparel and furnishings that meet the personal needs of individuals and commercial entities. Included are occupations that involve performing tasks in and around private households.
+</td>
+</tr>
+</table>
+
+
+
+</body>
+</html>
+:ET:response_headersIC:Faraday::Utils::Headers{I"connection;
+TI"
+close;
+TI"	date;
+TI""Tue, 25 Feb 2014 21:25:04 GMT;
+TI"server;
+TI"Microsoft-IIS/6.0;
+TI"x-powered-by;
+TI"ASP.NET;
+TI"set-cookie;
+TI"ÍCFID=6491676;expires=Thu, 18-Feb-2044 21:25:04 GMT;path=/, CFTOKEN=85342783;expires=Thu, 18-Feb-2044 21:25:04 GMT;path=/, COUNTYID=2;path=/, SIZEID=1;path=/, ACTIVESTILL=1;path=/, BIGipServerNOC_HTTP_POOL=1382328512.20480.0000; path=/;
+TI"content-type;
+TI"text/html; charset=UTF-8;
+T:@names{I"connection;
+T@
+I"	date;
+T@I"server;
+T@I"x-powered-by;
+T@I"set-cookie;
+T@I"content-type;
+T@:@created_atf1393363529.090534:@expires_inf8.64e4

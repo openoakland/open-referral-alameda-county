@@ -1,0 +1,50 @@
+o: ActiveSupport::Cache::Entry:@valueU:Faraday::Response{:statusi»:	bodyI"J<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+
+	<title>Therapeutic Exercise</title>
+	
+<link rel="stylesheet" type="text/css" href="/style/style1.css">
+</head>
+
+<body>
+
+
+
+
+
+<table width="100%" border=0 height="100%">
+<tr>
+<td valign=top>
+<font size="+1"><strong>Therapeutic Exercise</strong></font><br>
+Rehabilitation oriented fitness programs that develop individualized exercise routines and other fitness activities for people with acute or chronic health conditions such as arthritis, congestive heart failure, diabetes, Parkinson's disease, physical disabilities or other problems which affect their physical functioning with the objective of mitigating the effects of their condition; improving muscle strength and endurance, flexibility, and cardiovascular health; losing weight, if desirable; and reducing the risk of health problems such as heart disease, high blood pressure, osteoporosis and depression. Included are gym and home based therapeutic exercise programs and aquatic therapy.
+</td>
+</tr>
+</table>
+
+
+
+</body>
+</html>
+:ET:response_headersIC:Faraday::Utils::Headers{I"connection;
+TI"
+close;
+TI"	date;
+TI""Tue, 25 Feb 2014 21:24:48 GMT;
+TI"server;
+TI"Microsoft-IIS/6.0;
+TI"x-powered-by;
+TI"ASP.NET;
+TI"set-cookie;
+TI"ÍCFID=6112942;expires=Thu, 18-Feb-2044 21:24:48 GMT;path=/, CFTOKEN=18213602;expires=Thu, 18-Feb-2044 21:24:48 GMT;path=/, COUNTYID=2;path=/, SIZEID=1;path=/, ACTIVESTILL=1;path=/, BIGipServerNOC_HTTP_POOL=1365551296.20480.0000; path=/;
+TI"content-type;
+TI"text/html; charset=UTF-8;
+T:@names{I"connection;
+T@
+I"	date;
+T@I"server;
+T@I"x-powered-by;
+T@I"set-cookie;
+T@I"content-type;
+T@:@created_atf1393363513.672723:@expires_inf8.64e4
