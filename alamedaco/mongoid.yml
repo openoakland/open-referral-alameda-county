@@ -1,0 +1,7 @@
+development:
+  sessions:
+    default:
+      database: pupa
+      hosts:
+        - localhost:27017
+
